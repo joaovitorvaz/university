@@ -1,0 +1,1745 @@
+10, 100, 1000, 10000
+
+------------------------------------------------------------------------------------------
+BLOCO DE 10
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 25%			                              M1
+------------------------------------------------------------------------------------------ 
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 22 | MISS: 176
+CacheL2: HIT: 27 | MISS: 149
+CacheL3: HIT: 2 | MISS: 147
+RAM_memory: HIT: 147 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 11.11 % | Miss: 88.89 % |
+Cache L2: HIT: 13.64 % | Miss: 86.36 % |
+Cache L3: HIT: 1.01 % | Miss: 98.99 % |
+RAM_memory: HIT: 74.24 % | Miss: 0.0 |
+Total: HIT: 25.76 % | Miss: 74.24 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 34 | MISS: 164
+CacheL2: HIT: 66 | MISS: 98
+CacheL3: HIT: 3 | MISS: 95
+RAM_memory: HIT: 95 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 17.17 % | Miss: 82.83 % |
+Cache L2: HIT: 33.33 % | Miss: 66.67 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 47.98 % | Miss: 0.0 |
+Total: HIT: 52.02 % | Miss: 47.98 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 41 | MISS: 157
+CacheL2: HIT: 80 | MISS: 77
+CacheL3: HIT: 9 | MISS: 68
+RAM_memory: HIT: 68 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 20.71 % | Miss: 79.29 % |
+Cache L2: HIT: 40.40 % | Miss: 59.60 % |
+Cache L3: HIT: 4.55 % | Miss: 95.45 % |
+RAM_memory: HIT: 34.34 % | Miss: 0.0 |
+Total: HIT: 65.66 % | Miss: 34.34 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 73 | MISS: 125
+CacheL2: HIT: 107 | MISS: 18
+CacheL3: HIT: 0 | MISS: 18
+RAM_memory: HIT: 18 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 36.87 % | Miss: 63.13 % |
+Cache L2: HIT: 54.04 % | Miss: 45.96 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 9.09 % | Miss: 0.0 |
+Total: HIT: 90.91 % | Miss: 9.09 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 25%				                   M2
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 62 | MISS: 136
+CacheL2: HIT: 50 | MISS: 86
+CacheL3: HIT: 0 | MISS: 86
+RAM_memory: HIT: 86 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 31.31 % | Miss: 68.69 % |
+Cache L2: HIT: 25.25 % | Miss: 74.75 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 43.43 % | Miss: 0.0 |
+Total: HIT: 56.57 % | Miss: 43.43 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 78 | MISS: 120
+CacheL2: HIT: 56 | MISS: 64
+CacheL3: HIT: 0 | MISS: 64
+RAM_memory: HIT: 64 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 39.39 % | Miss: 60.61 % |
+Cache L2: HIT: 28.28 % | Miss: 71.72 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 32.32 % | Miss: 0.0 |
+Total: HIT: 67.68 % | Miss: 32.32 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 137 | MISS: 61
+CacheL2: HIT: 6 | MISS: 55
+CacheL3: HIT: 0 | MISS: 55
+RAM_memory: HIT: 55 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 69.19 % | Miss: 30.81 % |
+Cache L2: HIT: 3.03 % | Miss: 96.97 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 27.78 % | Miss: 0.0 |
+Total: HIT: 72.22 % | Miss: 27.78 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 180 | MISS: 18
+CacheL2: HIT: 0 | MISS: 18
+CacheL3: HIT: 0 | MISS: 18
+RAM_memory: HIT: 18 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 90.91 % | Miss: 9.09 % |
+Cache L2: HIT: 0.00 % | Miss: 100.00 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 9.09 % | Miss: 0.0 |
+Total: HIT: 90.91 % | Miss: 9.09 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 25%					                     M3
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 40 | MISS: 158
+CacheL2: HIT: 68 | MISS: 90
+CacheL3: HIT: 1 | MISS: 89
+RAM_memory: HIT: 89 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 20.20 % | Miss: 79.80 % |
+Cache L2: HIT: 34.34 % | Miss: 65.66 % |
+Cache L3: HIT: 0.51 % | Miss: 99.49 % |
+RAM_memory: HIT: 44.95 % | Miss: 0.0 |
+Total: HIT: 55.05 % | Miss: 44.95 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 48 | MISS: 150
+CacheL2: HIT: 86 | MISS: 64
+CacheL3: HIT: 0 | MISS: 64
+RAM_memory: HIT: 64 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 24.24 % | Miss: 75.76 % |
+Cache L2: HIT: 43.43 % | Miss: 56.57 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 32.32 % | Miss: 0.0 |
+Total: HIT: 67.68 % | Miss: 32.32 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 96 | MISS: 102
+CacheL2: HIT: 47 | MISS: 55
+CacheL3: HIT: 0 | MISS: 55
+RAM_memory: HIT: 55 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 48.48 % | Miss: 51.52 % |
+Cache L2: HIT: 23.74 % | Miss: 76.26 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 27.78 % | Miss: 0.0 |
+Total: HIT: 72.22 % | Miss: 27.78 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 153 | MISS: 45
+CacheL2: HIT: 27 | MISS: 18
+CacheL3: HIT: 0 | MISS: 18
+RAM_memory: HIT: 18 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 77.27 % | Miss: 22.73 % |
+Cache L2: HIT: 13.64 % | Miss: 86.36 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 9.09 % | Miss: 0.0 |
+Total: HIT: 90.91 % | Miss: 9.09 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 25%					                  M4
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 21 | MISS: 177
+CacheL2: HIT: 49 | MISS: 128
+CacheL3: HIT: 3 | MISS: 125
+RAM_memory: HIT: 125 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 10.61 % | Miss: 89.39 % |
+Cache L2: HIT: 24.75 % | Miss: 75.25 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 63.13 % | Miss: 0.0 |
+Total: HIT: 36.87 % | Miss: 63.13 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 36 | MISS: 162
+CacheL2: HIT: 59 | MISS: 103
+CacheL3: HIT: 1 | MISS: 102
+RAM_memory: HIT: 102 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 18.18 % | Miss: 81.82 % |
+Cache L2: HIT: 29.80 % | Miss: 70.20 % |
+Cache L3: HIT: 0.51 % | Miss: 99.49 % |
+RAM_memory: HIT: 51.52 % | Miss: 0.0 |
+Total: HIT: 48.48 % | Miss: 51.52 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 42 | MISS: 156
+CacheL2: HIT: 90 | MISS: 66
+CacheL3: HIT: 7 | MISS: 59
+RAM_memory: HIT: 59 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 21.21 % | Miss: 78.79 % |
+Cache L2: HIT: 45.45 % | Miss: 54.55 % |
+Cache L3: HIT: 3.54 % | Miss: 96.46 % |
+RAM_memory: HIT: 29.80 % | Miss: 0.0 |
+Total: HIT: 70.20 % | Miss: 29.80 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 73 | MISS: 125
+CacheL2: HIT: 107 | MISS: 18
+CacheL3: HIT: 0 | MISS: 18
+RAM_memory: HIT: 18 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 36.87 % | Miss: 63.13 % |
+Cache L2: HIT: 54.04 % | Miss: 45.96 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 9.09 % | Miss: 0.0 |
+Total: HIT: 90.91 % | Miss: 9.09 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 25%					                  M5
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 39 | MISS: 159
+CacheL2: HIT: 34 | MISS: 125
+CacheL3: HIT: 3 | MISS: 122
+RAM_memory: HIT: 122 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 19.70 % | Miss: 80.30 % |
+Cache L2: HIT: 17.17 % | Miss: 82.83 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 61.62 % | Miss: 0.0 |
+Total: HIT: 38.38 % | Miss: 61.62 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 43 | MISS: 155
+CacheL2: HIT: 81 | MISS: 74
+CacheL3: HIT: 1 | MISS: 73
+RAM_memory: HIT: 73 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 21.72 % | Miss: 78.28 % |
+Cache L2: HIT: 40.91 % | Miss: 59.09 % |
+Cache L3: HIT: 0.51 % | Miss: 99.49 % |
+RAM_memory: HIT: 36.87 % | Miss: 0.0 |
+Total: HIT: 63.13 % | Miss: 36.87 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 96 | MISS: 102
+CacheL2: HIT: 46 | MISS: 56
+CacheL3: HIT: 0 | MISS: 56
+RAM_memory: HIT: 56 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 48.48 % | Miss: 51.52 % |
+Cache L2: HIT: 23.23 % | Miss: 76.77 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 28.28 % | Miss: 0.0 |
+Total: HIT: 71.72 % | Miss: 28.28 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 10 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 153 | MISS: 45
+CacheL2: HIT: 27 | MISS: 18
+CacheL3: HIT: 0 | MISS: 18
+RAM_memory: HIT: 18 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 77.27 % | Miss: 22.73 % |
+Cache L2: HIT: 13.64 % | Miss: 86.36 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 9.09 % | Miss: 0.0 |
+Total: HIT: 90.91 % | Miss: 9.09 % |
+
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 25%                           M1
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 19 | MISS: 159
+CacheL2: HIT: 24 | MISS: 135
+CacheL3: HIT: 1 | MISS: 134
+RAM_memory: HIT: 134 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 10.67 % | Miss: 89.33 % |
+Cache L2: HIT: 13.48 % | Miss: 86.52 % |
+Cache L3: HIT: 0.56 % | Miss: 99.44 % |
+RAM_memory: HIT: 75.28 % | Miss: 0.0 |
+Total: HIT: 24.72 % | Miss: 75.28 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 15 | MISS: 163
+CacheL2: HIT: 25 | MISS: 138
+CacheL3: HIT: 3 | MISS: 135
+RAM_memory: HIT: 135 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 8.43 % | Miss: 91.57 % |
+Cache L2: HIT: 14.04 % | Miss: 85.96 % |
+Cache L3: HIT: 1.69 % | Miss: 98.31 % |
+RAM_memory: HIT: 75.84 % | Miss: 0.0 |
+Total: HIT: 24.16 % | Miss: 75.84 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 27 | MISS: 151
+CacheL2: HIT: 32 | MISS: 119
+CacheL3: HIT: 3 | MISS: 116
+RAM_memory: HIT: 116 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 15.17 % | Miss: 84.83 % |
+Cache L2: HIT: 17.98 % | Miss: 82.02 % |
+Cache L3: HIT: 1.69 % | Miss: 98.31 % |
+RAM_memory: HIT: 65.17 % | Miss: 0.0 |
+Total: HIT: 34.83 % | Miss: 65.17 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 21 | MISS: 157
+CacheL2: HIT: 59 | MISS: 98
+CacheL3: HIT: 6 | MISS: 92
+RAM_memory: HIT: 92 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 11.80 % | Miss: 88.20 % |
+Cache L2: HIT: 33.15 % | Miss: 66.85 % |
+Cache L3: HIT: 3.37 % | Miss: 96.63 % |
+RAM_memory: HIT: 51.69 % | Miss: 0.0 |
+Total: HIT: 48.31 % | Miss: 51.69 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 25%                               M2
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 52 | MISS: 126
+CacheL2: HIT: 41 | MISS: 85
+CacheL3: HIT: 0 | MISS: 85
+RAM_memory: HIT: 85 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 29.21 % | Miss: 70.79 % |
+Cache L2: HIT: 23.03 % | Miss: 76.97 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 47.75 % | Miss: 0.0 |
+Total: HIT: 52.25 % | Miss: 47.75 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 43 | MISS: 135
+CacheL2: HIT: 55 | MISS: 80
+CacheL3: HIT: 0 | MISS: 80
+RAM_memory: HIT: 80 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 24.16 % | Miss: 75.84 % |
+Cache L2: HIT: 30.90 % | Miss: 69.10 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 44.94 % | Miss: 0.0 |
+Total: HIT: 55.06 % | Miss: 44.94 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 57 | MISS: 121
+CacheL2: HIT: 53 | MISS: 68
+CacheL3: HIT: 0 | MISS: 68
+RAM_memory: HIT: 68 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 32.02 % | Miss: 67.98 % |
+Cache L2: HIT: 29.78 % | Miss: 70.22 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 38.20 % | Miss: 0.0 |
+Total: HIT: 61.80 % | Miss: 38.20 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 92 | MISS: 86
+CacheL2: HIT: 44 | MISS: 42
+CacheL3: HIT: 0 | MISS: 42
+RAM_memory: HIT: 42 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 51.69 % | Miss: 48.31 % |
+Cache L2: HIT: 24.72 % | Miss: 75.28 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 23.60 % | Miss: 0.0 |
+Total: HIT: 76.40 % | Miss: 23.60 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 25%                                 M3
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 24 | MISS: 154
+CacheL2: HIT: 67 | MISS: 87
+CacheL3: HIT: 2 | MISS: 85
+RAM_memory: HIT: 85 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 13.48 % | Miss: 86.52 % |
+Cache L2: HIT: 37.64 % | Miss: 62.36 % |
+Cache L3: HIT: 1.12 % | Miss: 98.88 % |
+RAM_memory: HIT: 47.75 % | Miss: 0.0 |
+Total: HIT: 52.25 % | Miss: 47.75 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 25 | MISS: 153
+CacheL2: HIT: 73 | MISS: 80
+CacheL3: HIT: 0 | MISS: 80
+RAM_memory: HIT: 80 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 14.04 % | Miss: 85.96 % |
+Cache L2: HIT: 41.01 % | Miss: 58.99 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 44.94 % | Miss: 0.0 |
+Total: HIT: 55.06 % | Miss: 44.94 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 46 | MISS: 132
+CacheL2: HIT: 64 | MISS: 68
+CacheL3: HIT: 0 | MISS: 68
+RAM_memory: HIT: 68 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 25.84 % | Miss: 74.16 % |
+Cache L2: HIT: 35.96 % | Miss: 64.04 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 38.20 % | Miss: 0.0 |
+Total: HIT: 61.80 % | Miss: 38.20 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 61 | MISS: 117
+CacheL2: HIT: 75 | MISS: 42
+CacheL3: HIT: 0 | MISS: 42
+RAM_memory: HIT: 42 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 34.27 % | Miss: 65.73 % |
+Cache L2: HIT: 42.13 % | Miss: 57.87 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 23.60 % | Miss: 0.0 |
+Total: HIT: 76.40 % | Miss: 23.60 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 25%                                 M4
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 17 | MISS: 161
+CacheL2: HIT: 47 | MISS: 114
+CacheL3: HIT: 1 | MISS: 113
+RAM_memory: HIT: 113 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 9.55 % | Miss: 90.45 % |
+Cache L2: HIT: 26.40 % | Miss: 73.60 % |
+Cache L3: HIT: 0.56 % | Miss: 99.44 % |
+RAM_memory: HIT: 63.48 % | Miss: 0.0 |
+Total: HIT: 36.52 % | Miss: 63.48 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 14 | MISS: 164
+CacheL2: HIT: 47 | MISS: 117
+CacheL3: HIT: 3 | MISS: 114
+RAM_memory: HIT: 114 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 7.87 % | Miss: 92.13 % |
+Cache L2: HIT: 26.40 % | Miss: 73.60 % |
+Cache L3: HIT: 1.69 % | Miss: 98.31 % |
+RAM_memory: HIT: 64.04 % | Miss: 0.0 |
+Total: HIT: 35.96 % | Miss: 64.04 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 27 | MISS: 151
+CacheL2: HIT: 68 | MISS: 83
+CacheL3: HIT: 3 | MISS: 80
+RAM_memory: HIT: 80 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 15.17 % | Miss: 84.83 % |
+Cache L2: HIT: 38.20 % | Miss: 61.80 % |
+Cache L3: HIT: 1.69 % | Miss: 98.31 % |
+RAM_memory: HIT: 44.94 % | Miss: 0.0 |
+Total: HIT: 55.06 % | Miss: 44.94 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 27 | MISS: 151
+CacheL2: HIT: 101 | MISS: 50
+CacheL3: HIT: 5 | MISS: 45
+RAM_memory: HIT: 45 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 15.17 % | Miss: 84.83 % |
+Cache L2: HIT: 56.74 % | Miss: 43.26 % |
+Cache L3: HIT: 2.81 % | Miss: 97.19 % |
+RAM_memory: HIT: 25.28 % | Miss: 0.0 |
+Total: HIT: 74.72 % | Miss: 25.28 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 25%                                   M5
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 23 | MISS: 155
+CacheL2: HIT: 45 | MISS: 110
+CacheL3: HIT: 3 | MISS: 107
+RAM_memory: HIT: 107 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 12.92 % | Miss: 87.08 % |
+Cache L2: HIT: 25.28 % | Miss: 74.72 % |
+Cache L3: HIT: 1.69 % | Miss: 98.31 % |
+RAM_memory: HIT: 60.11 % | Miss: 0.0 |
+Total: HIT: 39.89 % | Miss: 60.11 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 23 | MISS: 155
+CacheL2: HIT: 45 | MISS: 110
+CacheL3: HIT: 1 | MISS: 109
+RAM_memory: HIT: 109 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 12.92 % | Miss: 87.08 % |
+Cache L2: HIT: 25.28 % | Miss: 74.72 % |
+Cache L3: HIT: 0.56 % | Miss: 99.44 % |
+RAM_memory: HIT: 61.24 % | Miss: 0.0 |
+Total: HIT: 38.76 % | Miss: 61.24 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 46 | MISS: 132
+CacheL2: HIT: 60 | MISS: 72
+CacheL3: HIT: 0 | MISS: 72
+RAM_memory: HIT: 72 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 25.84 % | Miss: 74.16 % |
+Cache L2: HIT: 33.71 % | Miss: 66.29 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 40.45 % | Miss: 0.0 |
+Total: HIT: 59.55 % | Miss: 40.45 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 30 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 61 | MISS: 117
+CacheL2: HIT: 75 | MISS: 42
+CacheL3: HIT: 0 | MISS: 42
+RAM_memory: HIT: 42 | MISS: 0
+
+Tempo de execucao: 15.625000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 34.27 % | Miss: 65.73 % |
+Cache L2: HIT: 42.13 % | Miss: 57.87 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 23.60 % | Miss: 0.0 |
+Total: HIT: 76.40 % | Miss: 23.60 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 25%						                   M1
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 15 | MISS: 183
+CacheL2: HIT: 32 | MISS: 151
+CacheL3: HIT: 4 | MISS: 147
+RAM_memory: HIT: 147 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 7.58 % | Miss: 92.42 % |
+Cache L2: HIT: 16.16 % | Miss: 83.84 % |
+Cache L3: HIT: 2.02 % | Miss: 97.98 % |
+RAM_memory: HIT: 74.24 % | Miss: 0.0 |
+Total: HIT: 25.76 % | Miss: 74.24 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 18 | MISS: 180
+CacheL2: HIT: 27 | MISS: 153
+CacheL3: HIT: 2 | MISS: 151
+RAM_memory: HIT: 151 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 9.09 % | Miss: 90.91 % |
+Cache L2: HIT: 13.64 % | Miss: 86.36 % |
+Cache L3: HIT: 1.01 % | Miss: 98.99 % |
+RAM_memory: HIT: 76.26 % | Miss: 0.0 |
+Total: HIT: 23.74 % | Miss: 76.26 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 16 | MISS: 182
+CacheL2: HIT: 25 | MISS: 157
+CacheL3: HIT: 2 | MISS: 155
+RAM_memory: HIT: 155 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 8.08 % | Miss: 91.92 % |
+Cache L2: HIT: 12.63 % | Miss: 87.37 % |
+Cache L3: HIT: 1.01 % | Miss: 98.99 % |
+RAM_memory: HIT: 78.28 % | Miss: 0.0 |
+Total: HIT: 21.72 % | Miss: 78.28 % |
+
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 16
+CacheL3: 32
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 25 | MISS: 173
+CacheL2: HIT: 46 | MISS: 127
+CacheL3: HIT: 2 | MISS: 125
+RAM_memory: HIT: 125 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 12.63 % | Miss: 87.37 % |
+Cache L2: HIT: 23.23 % | Miss: 76.77 % |
+Cache L3: HIT: 1.01 % | Miss: 98.99 % |
+RAM_memory: HIT: 63.13 % | Miss: 0.0 |
+Total: HIT: 36.87 % | Miss: 63.13 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 25%						                 M2
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 57 | MISS: 141
+CacheL2: HIT: 52 | MISS: 89
+CacheL3: HIT: 0 | MISS: 89
+RAM_memory: HIT: 89 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 28.79 % | Miss: 71.21 % |
+Cache L2: HIT: 26.26 % | Miss: 73.74 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 44.95 % | Miss: 0.0 |
+Total: HIT: 55.05 % | Miss: 44.95 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 55 | MISS: 143
+CacheL2: HIT: 59 | MISS: 84
+CacheL3: HIT: 0 | MISS: 84
+RAM_memory: HIT: 84 | MISS: 0
+
+Tempo de execucao: 15.625000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 27.78 % | Miss: 72.22 % |
+Cache L2: HIT: 29.80 % | Miss: 70.20 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 42.42 % | Miss: 0.0 |
+Total: HIT: 57.58 % | Miss: 42.42 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 65 | MISS: 133
+CacheL2: HIT: 44 | MISS: 89
+CacheL3: HIT: 0 | MISS: 89
+RAM_memory: HIT: 89 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 32.83 % | Miss: 67.17 % |
+Cache L2: HIT: 22.22 % | Miss: 77.78 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 44.95 % | Miss: 0.0 |
+Total: HIT: 55.05 % | Miss: 44.95 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 32
+CacheL2: 64
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 100 | MISS: 98
+CacheL2: HIT: 40 | MISS: 58
+CacheL3: HIT: 0 | MISS: 58
+RAM_memory: HIT: 58 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 50.51 % | Miss: 49.49 % |
+Cache L2: HIT: 20.20 % | Miss: 79.80 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 29.29 % | Miss: 0.0 |
+Total: HIT: 70.71 % | Miss: 29.29 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 25%						                       M3
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 33 | MISS: 165
+CacheL2: HIT: 75 | MISS: 90
+CacheL3: HIT: 0 | MISS: 90
+RAM_memory: HIT: 90 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 16.67 % | Miss: 83.33 % |
+Cache L2: HIT: 37.88 % | Miss: 62.12 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 45.45 % | Miss: 0.0 |
+Total: HIT: 54.55 % | Miss: 45.45 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 33 | MISS: 165
+CacheL2: HIT: 80 | MISS: 85
+CacheL3: HIT: 1 | MISS: 84
+RAM_memory: HIT: 84 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 16.67 % | Miss: 83.33 % |
+Cache L2: HIT: 40.40 % | Miss: 59.60 % |
+Cache L3: HIT: 0.51 % | Miss: 99.49 % |
+RAM_memory: HIT: 42.42 % | Miss: 0.0 |
+Total: HIT: 57.58 % | Miss: 42.42 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 26 | MISS: 172
+CacheL2: HIT: 82 | MISS: 90
+CacheL3: HIT: 0 | MISS: 90
+RAM_memory: HIT: 90 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 13.13 % | Miss: 86.87 % |
+Cache L2: HIT: 41.41 % | Miss: 58.59 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 45.45 % | Miss: 0.0 |
+Total: HIT: 54.55 % | Miss: 45.45 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 64
+CacheL3: 256
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 51 | MISS: 147
+CacheL2: HIT: 89 | MISS: 58
+CacheL3: HIT: 0 | MISS: 58
+RAM_memory: HIT: 58 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 25.76 % | Miss: 74.24 % |
+Cache L2: HIT: 44.95 % | Miss: 55.05 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 29.29 % | Miss: 0.0 |
+Total: HIT: 70.71 % | Miss: 29.29 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 25%						                        M4
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 14 | MISS: 184
+CacheL2: HIT: 52 | MISS: 132
+CacheL3: HIT: 3 | MISS: 129
+RAM_memory: HIT: 129 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 7.07 % | Miss: 92.93 % |
+Cache L2: HIT: 26.26 % | Miss: 73.74 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 65.15 % | Miss: 0.0 |
+Total: HIT: 34.85 % | Miss: 65.15 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 15 | MISS: 183
+CacheL2: HIT: 49 | MISS: 134
+CacheL3: HIT: 4 | MISS: 130
+RAM_memory: HIT: 130 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 7.58 % | Miss: 92.42 % |
+Cache L2: HIT: 24.75 % | Miss: 75.25 % |
+Cache L3: HIT: 2.02 % | Miss: 97.98 % |
+RAM_memory: HIT: 65.66 % | Miss: 0.0 |
+Total: HIT: 34.34 % | Miss: 65.66 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 13 | MISS: 185
+CacheL2: HIT: 57 | MISS: 128
+CacheL3: HIT: 3 | MISS: 125
+RAM_memory: HIT: 125 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 6.57 % | Miss: 93.43 % |
+Cache L2: HIT: 28.79 % | Miss: 71.21 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 63.13 % | Miss: 0.0 |
+Total: HIT: 36.87 % | Miss: 63.13 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 100%
+--------------- ---------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 8
+CacheL2: 32
+CacheL3: 128
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 22 | MISS: 176
+CacheL2: HIT: 88 | MISS: 88
+CacheL3: HIT: 3 | MISS: 85
+RAM_memory: HIT: 85 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 11.11 % | Miss: 88.89 % |
+Cache L2: HIT: 44.44 % | Miss: 55.56 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 42.93 % | Miss: 0.0 |
+Total: HIT: 57.07 % | Miss: 42.93 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 25%						                   M5
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 28 | MISS: 170
+CacheL2: HIT: 46 | MISS: 124
+CacheL3: HIT: 0 | MISS: 124
+RAM_memory: HIT: 124 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 14.14 % | Miss: 85.86 % |
+Cache L2: HIT: 23.23 % | Miss: 76.77 % |
+Cache L3: HIT: 0.00 % | Miss: 100.00 % |
+RAM_memory: HIT: 62.63 % | Miss: 0.0 |
+Total: HIT: 37.37 % | Miss: 62.63 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 50%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 33 | MISS: 165
+CacheL2: HIT: 47 | MISS: 118
+CacheL3: HIT: 1 | MISS: 117
+RAM_memory: HIT: 117 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 16.67 % | Miss: 83.33 % |
+Cache L2: HIT: 23.74 % | Miss: 76.26 % |
+Cache L3: HIT: 0.51 % | Miss: 99.49 % |
+RAM_memory: HIT: 59.09 % | Miss: 0.0 |
+Total: HIT: 40.91 % | Miss: 59.09 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 75%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 24 | MISS: 174
+CacheL2: HIT: 54 | MISS: 120
+CacheL3: HIT: 3 | MISS: 117
+RAM_memory: HIT: 117 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 12.12 % | Miss: 87.88 % |
+Cache L2: HIT: 27.27 % | Miss: 72.73 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 59.09 % | Miss: 0.0 |
+Total: HIT: 40.91 % | Miss: 59.09 % |
+
+
+------------------------------------------------------------------------------------------
+Informativo - Bloco de 50 - 100%
+------------------------------------------------------------------------------------------
+
+Tamanho da Cache:
+
+CacheL1: 16
+CacheL2: 32
+CacheL3: 64
+RAM_memory: 100
+
+Quantidade de HIT/MISS:
+
+CacheL1: HIT: 49 | MISS: 149
+CacheL2: HIT: 75 | MISS: 74
+CacheL3: HIT: 3 | MISS: 71
+RAM_memory: HIT: 71 | MISS: 0
+
+Tempo de execucao: 0.000000 ms.
+
+Dados estatisticos:
+
+Cache L1: HIT: 24.75 % | Miss: 75.25 % |
+Cache L2: HIT: 37.88 % | Miss: 62.12 % |
+Cache L3: HIT: 1.52 % | Miss: 98.48 % |
+RAM_memory: HIT: 35.86 % | Miss: 0.0 |
+Total: HIT: 64.14 % | Miss: 35.86 % |

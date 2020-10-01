@@ -1,0 +1,41 @@
+Questao (1):
+
+Area Trapezio = 252.00
+Area Losango = 9.00
+Area Quadrado = 16.00
+
+Questao (2):
+
+1  		tA	 4	 4	 1	 1	 0	33.3	
+   		tB	 4	 4	 1	 1	 0	33.3	
+3  		tC	 4	 4	 0	 0	 0	33.3	
+   		tD	 4	 4	 0	 0	 0	33.3	
+   		tE	 4	 4	 0	 0	 0	33.3	
+6  		tF	 0	 0	 0	 0	 0	N/A	
+
+
+1  		Botafogo	 6	 2	 6	 4	 2	100.0	
+2  		Flamengo	 0	 2	 4	 6	-2	0.0	
+
+
+1  		tA	 4	 4	 0	 0	 0	33.3	
+   		tB	 4	 4	 0	 0	 0	33.3	
+   		tC	 4	 4	 0	 0	 0	33.3	
+   		tD	 4	 4	 0	 0	 0	33.3	
+   		tE	 4	 4	 0	 0	 0	33.3	
+
+
+1  		Quinze-Novemb	 3	 1	 6	 0	 6	100.0	
+2  		Santo-Andre	 3	 1	 2	 0	 2	100.0	
+3  		Flamengo	 0	 2	 0	 8	-8	0.0	
+
+Questao (3):
+
+0.000000
+Subtracao
+Subtrair-variaveis
+
+0.000000
+Multiplicacao
+Multiplicar-variaveis
+

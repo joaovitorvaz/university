@@ -1,0 +1,6 @@
+Lista encadeada: 3 2 1 4 
+Lista encadeada: 2 1 4 
+
+O numero 1 pertence a lista!
+
+A lista nao esta vazia.

@@ -1,0 +1,21 @@
+
+
+
+---INSERTIONSORT---
+
+Valores aleatorios.
+
+Iniciando:   Tue Oct 15 21:29:39 2019
+Finalizado:  Tue Oct 15 21:37:50 2019
+
+
+Valores crescentes.
+
+Iniciando:   Tue Oct 15 21:37:50 2019
+Finalizado:  Tue Oct 15 21:37:50 2019
+
+
+Valores decrescentes.
+
+Iniciando:   Tue Oct 15 21:37:50 2019
+Finalizado:  Tue Oct 15 21:53:58 2019

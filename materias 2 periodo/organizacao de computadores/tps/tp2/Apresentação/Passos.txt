@@ -1,0 +1,26 @@
+Main.c)
+1-Criação do root dos numeros aleatorios e chamada da função Menu
+
+Menu.c)
+1-Criação das caches
+2-Alocação do seu tamanho,é utilizado o numero dois como base visto que é necessário o espaço da operação a ser realizada bem como o halt
+3-As caches devem possuir tamanho maior que sua antecessora
+4-Clock para observar o tempo de duração da busca(Linha 38)
+5-Pega ARITMETIC_size
+6-Cria vetor de memoria aritmetic(todos valores = 0)
+Instructions.c)
+7-Starta instruções, realiza operações enquanto a flag criada for !TRUE,chama função ler instruções
+8-Fgetc usado para contar o numero de isntruções presentes no arquivo texto
+9-(linha 362) Fscanf pega os valores do arquivo txt para depois serem adicionados na matriz, os valores são o opcode,endereços dos valores 1 ao 3 e os valores(word)
+10-Realizadas aas operações retorna-se a primeira linha do arquivo e torna-se a flag = TRUE(para o do-while na função starta_instrucoes)
+Menu.c)
+11-Chama CPU
+Cpu.c)
+1-Pick(recebe opcodes de cada instruction,caso entre em halt(para tudo))
+2-Aritmetic_memory(recebe os valores que o mmu encontra e retorna )
+3-MMu(busca os valores nas caches,pulando de uma para outra),foram adicionados diversos casos para cada situação(Ex.Procura na cache 1,dps na 2,etc)
+4-Para cada caso, são feitas analises se a cache anterior se encontra vazia ou cheia,em sequencia os valores são passados para a cache de menor valor
+5-Apos cada verificacao sao retornadas as palavras(words) de cada bloco
+6-Os valores encontrados são retornados para o vetor Aritmetic_memory e posteriormente são encaminhados para o ALU que realizara as operações implicadas no opcode,os valores são impressos e a seguir a cache é impressa na tela
+Menu.c)
+12-É capturado o tempo que o programa rodou e impresso,a seguir são impressas as estatisticas de acesso nas diferentes caches

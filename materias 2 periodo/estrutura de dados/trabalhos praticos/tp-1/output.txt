@@ -1,0 +1,27 @@
+Bem vindo ao Gerenciador de Republica.
+
+Republica: PinkHouse
+
+Os moradores da republica são: 
+
+Marcus
+Douglas
+Joao
+Victor
+Augusto
+
+As tarefas da republica são: 
+
+Cozinhar
+Varrer
+Passar
+Aspirar
+Esfregar
+
+Afazeres: 
+
+A tarefa de Marcus é Esfregar.
+A tarefa de Douglas é Aspirar.
+A tarefa de Joao é Passar.
+A tarefa de Victor é Varrer.
+A tarefa de Augusto é Cozinhar.

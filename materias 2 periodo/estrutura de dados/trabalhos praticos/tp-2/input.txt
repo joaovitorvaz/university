@@ -1,0 +1,66 @@
+1
+1 4
+2 6 3
+3 12 24 14
+1 8
+
+2
+6 10
+tA
+tB
+tC
+tD
+tE
+tF
+tA 1 - 1 tB
+tC 0 - 0 tD
+tE 0 - 0 tA
+tC 0 - 0 tB
+tD 0 - 0 tE
+tA 0 - 0 tC
+tB 0 - 0 tE
+tD 0 - 0 tA
+tE 0 - 0 tC
+tB 0 - 0 tD
+2
+2 2
+Botafogo
+Flamengo
+Botafogo 3 - 2 Flamengo
+Flamengo 2 - 3 Botafogo
+2
+5 10
+tA
+tB
+tC
+tD
+tE
+tA 0 - 0 tB
+tC 0 - 0 tD
+tE 0 - 0 tA
+tC 0 - 0 tB
+tD 0 - 0 tE
+tA 0 - 0 tC
+tB 0 - 0 tE
+tD 0 - 0 tA
+tE 0 - 0 tC
+tB 0 - 0 tD
+2
+3 2
+Quinze-Novemb
+Flamengo
+Santo-Andre
+Quinze-Novemb 6 - 0 Flamengo
+Flamengo 0 - 2 Santo-Andre
+
+3
+1000000
+Soma
+Somar-variaveis
+90000
+Subtracao
+Subtrair-variaveis
+90
+Multiplicacao
+Multiplicar-variaveis
+0

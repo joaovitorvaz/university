@@ -1,0 +1,15 @@
+
+
+
+---MERGESORT---
+
+Iniciando com valores aleatorios:   Tue Oct 15 19:16:29 2019
+Finalizado:                         Tue Oct 15 19:16:30 2019
+
+
+Iniciando com valores ordenados de forma crescente:   Tue Oct 15 19:16:30 2019
+Finalizado:                                           Tue Oct 15 19:16:30 2019
+
+
+Iniciando com valores ordenados de forma decrescente:   Tue Oct 15 19:16:30 2019
+Finalizado:                                             Tue Oct 15 19:16:30 2019

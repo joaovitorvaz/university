@@ -1,0 +1,22 @@
+Input File: input.ttf
+(0.400000 bytes)
+Output File: output.hx
+1.053000 bytes
+Frequencia de descompressao: 263.250000
+
+Input File: input.hx
+(4.000000 bytes)
+Output File: output.ttf
+0.058000 bytes
+Frequencia de descompressao: 1.450000
+
+Possuimos 10 escaninhos.
+
+Estudante adicionado.
+Estudante adicionado.
+Documentos estao no escaninho: 1
+Nome: Marcus | CPF: 131365 | Matricula: 4050 
+Estudante removido.
+Estudante removido.
+
+Fim de programa...

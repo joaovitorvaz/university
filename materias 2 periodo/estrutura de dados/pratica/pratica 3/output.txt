@@ -1,0 +1,11 @@
+Bem vindo aos exercicios.
+
+
+Questão 1) Resultado = 15  
+
+Questão 2) Resultado = 5  4  3  2  1  
+
+Questão 3) Resultado = 1  
+
+Questão 4) Resultado = 120
+

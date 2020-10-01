@@ -1,0 +1,40 @@
+﻿1) 
+
+* Melhor caso: Quando a verificação percorre o menor número possível de termos(N vezes para N termos), assim se obtem um menor tempo de execução.
+
+* Pior caso: Quando a verificação percorre os termos por mais de uma vez, uma forma desnecessária, causando assim um maior tempo de execução.
+
+----------------------------------------------------------------
+
+2)
+
+a) O(n)
+b) O(n^2)
+c) O(n)
+d) O(n)
+
+----------------------------------------------------------------
+
+3)
+
+Melhor caso: A palavra ser maior.
+Pior caso: A palavra não existir.
+
+----------------------------------------------------------------
+
+4)
+
+A: Utlizar para números pequenos.
+
+B: Utilizar para números grandes
+
+----------------------------------------------------------------
+
+5)
+
+Na linha 3: Executa "n" vezes.
+Na linha 4: Executa "n-1" vezes.
+
+Resultado= n*(n-1)= n^2-n = n^2
+
+----------------------------------------------------------------

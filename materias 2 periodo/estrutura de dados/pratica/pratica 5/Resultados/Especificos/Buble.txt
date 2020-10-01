@@ -1,0 +1,12 @@
+---BUBLESORT---
+
+Iniciando com valores aleatorios:   		     	Mon Oct 14 19:56:21 2019
+Finalizado:  			   		      	              Mon Oct 14 20:47:17 2019
+
+
+Iniciando com valores ordenados de forma crescente:   	Mon Oct 14 20:47:17 2019
+Finalizado:   					      	                        Mon Oct 14 20:47:17 2019
+
+
+Iniciando com valores ordenados de forma decrescente:   Mon Oct 14 20:47:17 2019
+Finalizado:   						                              Mon Oct 14 21:25:18 2019

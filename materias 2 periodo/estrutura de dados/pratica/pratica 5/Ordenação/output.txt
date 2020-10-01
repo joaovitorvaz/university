@@ -1,0 +1,81 @@
+---BUBLESORT---
+
+Valores aleatorios.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores crescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores decrescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+
+---SELECTIONSORT---
+
+Valores aleatorios.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores crescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores decrescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+
+---MERGESORT---
+
+Valores aleatorios.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores crescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores decrescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+
+---INSERTIONSORT---
+
+Valores aleatorios.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores crescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019
+
+
+Valores decrescentes.
+
+Iniciando:   Wed Oct 16 20:15:34 2019
+Finalizado:  Wed Oct 16 20:15:34 2019

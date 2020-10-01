@@ -1,0 +1,4 @@
+3
+Coxinha_Barroca 75.23 500.23
+Pastel_de_Vento 1.34 0.21
+X_Colesterol 350.23 982.34
