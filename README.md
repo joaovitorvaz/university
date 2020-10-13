@@ -3,7 +3,7 @@
 ## About this respository
 
 The purpose of this repository is to share my university documents and work with anyone who needs assistance. 
-Here you find everything you need in a well organized way.
+Here you find everything you need in an organized way.
 
 ## Note
 
