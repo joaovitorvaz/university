@@ -1,14 +1,31 @@
-# University
+## RECEIVING UPDATES
 
-## About this respository
+<p align="center">
+   <img src="./Midia/Logos/Logo Voluta.png" alt="UFOP" width="200"/>
+</p>
 
-The purpose of this repository is to share my university documents and work with anyone who needs assistance. 
-Here you find everything you need in an organized way.
+<p align="center">	
+   <a href="https://www.linkedin.com/in/marcus-fernandes-f77/">
+      <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-962038?style=flat&logo=linkedin&labelColor=962038" />
+   </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-962038">
+</p>
+
+
+## Features
+
+* The purpose of this repository is to share my university documents and work with anyone who needs assistance. 
+* Here you find everything you need in an organized way.
+
+---
 
 ## Note
 
-- Use this as inspiration, don't copy anyhing just to make your work easier.
+* Use this as inspiration, don't copy anyhing just to make your work easier.
+
+---
 
 ## License
 
-- <a href="https://github.com/marcusv77/University/blob/master/LICENSE">MIT</a>
+Released in 2020 License
+This project is under the [MIT license](./LICENSE).
