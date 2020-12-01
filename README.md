@@ -1,7 +1,7 @@
 ## RECEIVING UPDATES
 
 <p align="center">
-   <img src="./Midia/Logos/Logo Voluta.png" alt="UFOP" width="200"/>
+   <img src="./logos/UFOP/Ufop.jpg" alt="UFOP" width="150"/>
 </p>
 
 <p align="center">	
