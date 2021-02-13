@@ -1,6 +1,0 @@
-5
-Augusto 70.00 78.00
-Vitao 66.00 80.00
-Marcus 77.00 98.00
-Oliveira 80.00 60.00
-Vitim 40.00 40.00
