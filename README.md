@@ -1,7 +1,7 @@
 ## RECEIVING UPDATES
 
 <p align="center">
-   <img src="./logos/UFOP/Ufop.jpg" alt="UFOP" width="150"/>
+   <img src="./logos/ufop/ufop.jpg" alt="UFOP" width="150"/>
 </p>
 
 <p align="center">	
