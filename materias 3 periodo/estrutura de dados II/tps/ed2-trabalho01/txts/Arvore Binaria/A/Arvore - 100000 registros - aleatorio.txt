@@ -1,0 +1,10 @@
+./pesquisa 2 100000 2 9291
+./pesquisa 2 100000 2 20124
+./pesquisa 2 100000 2 32462
+./pesquisa 2 100000 2 43956
+./pesquisa 2 100000 2 50000
+./pesquisa 2 100000 2 68347
+./pesquisa 2 100000 2 77715
+./pesquisa 2 100000 2 81289
+./pesquisa 2 100000 2 94532
+./pesquisa 2 100000 2 100000

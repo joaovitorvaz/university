@@ -1,0 +1,10 @@
+./pesquisa 3 10000 1 929
+./pesquisa 3 10000 1 2012
+./pesquisa 3 10000 1 3246
+./pesquisa 3 10000 1 4395
+./pesquisa 3 10000 1 5000
+./pesquisa 3 10000 1 6834
+./pesquisa 3 10000 1 7771
+./pesquisa 3 10000 1 8128
+./pesquisa 3 10000 1 9453
+./pesquisa 3 10000 1 10000

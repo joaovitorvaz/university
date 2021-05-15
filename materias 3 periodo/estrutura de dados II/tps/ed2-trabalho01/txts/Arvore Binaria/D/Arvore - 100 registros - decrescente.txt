@@ -1,0 +1,10 @@
+./pesquisa 2 100 1 9
+./pesquisa 2 100 1 20
+./pesquisa 2 100 1 32
+./pesquisa 2 100 1 43
+./pesquisa 2 100 1 50
+./pesquisa 2 100 1 68
+./pesquisa 2 100 1 77
+./pesquisa 2 100 1 81
+./pesquisa 2 100 1 94
+./pesquisa 2 100 1 100
