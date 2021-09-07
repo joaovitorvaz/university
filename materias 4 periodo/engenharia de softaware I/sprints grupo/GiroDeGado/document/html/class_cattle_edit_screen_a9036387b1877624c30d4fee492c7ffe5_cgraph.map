@@ -1,0 +1,11 @@
+<map id="CattleEditScreen::on_editButton_clicked" name="CattleEditScreen::on_editButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,175,148,217"/>
+<area shape="rect" id="node2" href="$class_cattle_edit_screen.html#a957639db931a584715938de0c7beb9bd" title=" " alt="" coords="209,5,385,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#aa269c04c45275617c6a3c3304e5cd787" title=" " alt="" coords="196,56,399,83"/>
+<area shape="rect" id="node4" href="$class_farm.html#a70ce1b83df7fd7402d7003a49413fe5b" title=" " alt="" coords="214,107,381,133"/>
+<area shape="rect" id="node5" href="$class_farm.html#a9fa3782adb85cf0022fadfecf254c37f" title=" " alt="" coords="224,157,371,184"/>
+<area shape="rect" id="node6" href="$class_farm.html#af30024c237a2f80be79a83e6fa91b16a" title=" " alt="" coords="223,208,372,235"/>
+<area shape="rect" id="node7" href="$class_farm.html#aa62eef7ef3f70960e74c986e41624307" title=" " alt="" coords="221,259,373,285"/>
+<area shape="rect" id="node8" href="$class_farm.html#a7ef5db4d3afeb58712acefc40237af6b" title=" " alt="" coords="225,309,370,336"/>
+<area shape="rect" id="node9" href="$class_farm.html#ab17b0ca624b281af9370b7cb6907a668" title=" " alt="" coords="221,360,374,387"/>
+</map>

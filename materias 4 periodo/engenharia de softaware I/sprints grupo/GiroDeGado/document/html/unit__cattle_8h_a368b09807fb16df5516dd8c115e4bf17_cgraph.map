@@ -1,0 +1,5 @@
+<map id="unit_cattle_getBreed" name="unit_cattle_getBreed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$class_cattle.html#a09af750d5dfcce9fefc73485ca707c25" title=" " alt="" coords="195,5,311,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#aa050913e0bdbd273d1e82eecedfb65fc" title=" " alt="" coords="196,56,309,83"/>
+</map>

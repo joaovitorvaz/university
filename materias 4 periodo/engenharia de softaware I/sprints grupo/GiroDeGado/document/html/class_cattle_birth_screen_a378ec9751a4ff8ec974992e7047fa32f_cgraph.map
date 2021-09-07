@@ -1,0 +1,6 @@
+<map id="CattleBirthScreen::on_registerButton_clicked" name="CattleBirthScreen::on_registerButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,177,98"/>
+<area shape="rect" id="node2" href="$class_farm.html#a0f070ad719c521c90bc45c0c228f35aa" title=" " alt="" coords="257,5,388,32"/>
+<area shape="rect" id="node3" href="$class_cattle_birth_screen.html#ac783ddcd490943ce06c1d47a0aba5a22" title=" " alt="" coords="257,57,389,98"/>
+<area shape="rect" id="node4" href="$class_farm.html#a8551ba881705694de18c12b47fcefdda" title=" " alt="" coords="225,123,420,149"/>
+</map>

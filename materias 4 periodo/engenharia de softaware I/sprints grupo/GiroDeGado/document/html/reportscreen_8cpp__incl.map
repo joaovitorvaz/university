@@ -1,0 +1,11 @@
+<map id="GiroDeGado/gui/entity/reportscreen.cpp" name="GiroDeGado/gui/entity/reportscreen.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="128,5,279,47"/>
+<area shape="rect" id="node2" href="$reportscreen_8h.html" title="This file contains the screen for the requisition and visualization of reports in the GiroDeGado soft..." alt="" coords="81,95,187,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="211,95,334,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,177,73,203"/>
+<area shape="rect" id="node4" title=" " alt="" coords="98,177,170,203"/>
+<area shape="rect" id="node5" href="$farm_8h.html" title="This file contains the interface of a Farm for the GiroDeGado software." alt="" coords="194,169,309,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="125,259,181,285"/>
+<area shape="rect" id="node7" title=" " alt="" coords="205,259,297,285"/>
+<area shape="rect" id="node8" title=" " alt="" coords="321,259,408,285"/>
+</map>

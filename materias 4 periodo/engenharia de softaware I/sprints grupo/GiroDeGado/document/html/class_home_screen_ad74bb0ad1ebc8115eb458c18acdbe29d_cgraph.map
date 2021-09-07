@@ -1,0 +1,5 @@
+<map id="HomeScreen::on_userButton_clicked" name="HomeScreen::on_userButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,195,65"/>
+<area shape="rect" id="node2" href="$class_home_screen.html#ad2bc48228006d0be74f79e3b6487b316" title=" " alt="" coords="243,5,396,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#af5ba43fd2e316e1a0264d0469ffe0664" title=" " alt="" coords="253,56,386,83"/>
+</map>

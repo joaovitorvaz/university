@@ -1,0 +1,6 @@
+<map id="FinancialRecordScreen::on_registerButton_clicked" name="FinancialRecordScreen::on_registerButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,185,98"/>
+<area shape="rect" id="node2" href="$class_farm.html#a5329f10759b521886021dd34820caf52" title=" " alt="" coords="251,5,414,32"/>
+<area shape="rect" id="node3" href="$class_financial_record_screen.html#a06bf7164d89b944d4efc5067adf45a06" title=" " alt="" coords="255,57,411,98"/>
+<area shape="rect" id="node4" href="$class_farm.html#a1acd8cc7886264e1e342ff18d50ff454" title=" " alt="" coords="233,123,432,149"/>
+</map>

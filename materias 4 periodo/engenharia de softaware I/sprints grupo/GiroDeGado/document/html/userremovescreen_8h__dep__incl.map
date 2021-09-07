@@ -1,0 +1,9 @@
+<map id="GiroDeGado/gui/entity/userremovescreen.h" name="GiroDeGado/gui/entity/userremovescreen.h">
+<area shape="rect" id="node1" title="This file contains the screen for the removal of a user in the GiroDeGado software." alt="" coords="563,5,714,47"/>
+<area shape="rect" id="node2" href="$debug_2moc__userremovescreen_8cpp.html" title=" " alt="" coords="5,102,232,143"/>
+<area shape="rect" id="node3" href="$tests_2debug_2moc__userremovescreen_8cpp.html" title=" " alt="" coords="257,102,519,143"/>
+<area shape="rect" id="node4" href="$usermanagementscreen_8cpp.html" title=" " alt="" coords="543,102,734,143"/>
+<area shape="rect" id="node5" href="$userremovescreen_8cpp.html" title=" " alt="" coords="758,102,914,143"/>
+<area shape="rect" id="node6" href="$user__remove__unit__test_8cpp.html" title=" " alt="" coords="938,95,1089,151"/>
+<area shape="rect" id="node7" href="$gui__tests_2main_8cpp.html" title=" " alt="" coords="938,199,1089,240"/>
+</map>

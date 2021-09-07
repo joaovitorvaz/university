@@ -1,0 +1,9 @@
+<map id="GiroDeGado/gui/entity/cattleconsultscreen.h" name="GiroDeGado/gui/entity/cattleconsultscreen.h">
+<area shape="rect" id="node1" title="This file contains the screen for the consult of cattle for the GiroDeGado software." alt="" coords="566,5,717,47"/>
+<area shape="rect" id="node2" href="$debug_2moc__cattleconsultscreen_8cpp.html" title=" " alt="" coords="5,102,240,143"/>
+<area shape="rect" id="node3" href="$tests_2debug_2moc__cattleconsultscreen_8cpp.html" title=" " alt="" coords="265,102,535,143"/>
+<area shape="rect" id="node4" href="$cattleconsultscreen_8cpp.html" title=" " alt="" coords="559,102,723,143"/>
+<area shape="rect" id="node5" href="$cattlemanagementscreen_8cpp.html" title=" " alt="" coords="748,102,945,143"/>
+<area shape="rect" id="node6" href="$cattle__consult__unit__test_8cpp.html" title=" " alt="" coords="970,95,1129,151"/>
+<area shape="rect" id="node7" href="$gui__tests_2main_8cpp.html" title=" " alt="" coords="974,199,1125,240"/>
+</map>

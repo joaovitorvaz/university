@@ -1,0 +1,9 @@
+<map id="TestFinancialRecordScreenGUI" name="TestFinancialRecordScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1175,208,1325"/>
+<area shape="rect" id="node2" title=" " alt="" coords="50,991,121,1068"/>
+<area shape="rect" id="node3" href="$class_financial_record_screen.html" title=" " alt="" coords="145,947,333,1112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,579,122,657"/>
+<area shape="rect" id="node5" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="146,352,331,884"/>
+<area shape="rect" id="node6" href="$class_ui_1_1_financial_record_screen.html" title=" " alt="" coords="356,579,532,657"/>
+<area shape="rect" id="node7" href="$class_ui___financial_record_screen.html" title=" " alt="" coords="357,5,531,303"/>
+</map>

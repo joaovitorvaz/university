@@ -1,0 +1,5 @@
+<map id="unit_farm_setCattleFather" name="unit_farm_setCattleFather">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$class_farm.html#a251ad89b0f299ce5a1f9474eb1db7fe8" title=" " alt="" coords="224,5,373,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#af30024c237a2f80be79a83e6fa91b16a" title=" " alt="" coords="224,56,373,83"/>
+</map>

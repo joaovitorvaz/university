@@ -1,0 +1,6 @@
+<map id="CattleHandle" name="CattleHandle">
+<area shape="rect" id="node1" title="This Class represents the handle of a Handle/Body idiom of a Cattle for the GiroDeGado software imple..." alt="" coords="136,551,287,877"/>
+<area shape="rect" id="node2" href="$class_handle.html" title=" " alt="" coords="5,285,156,406"/>
+<area shape="rect" id="node3" href="$class_handle.html" title="The classes Handle and Body implements the &quot;bridge&quot; design pattern (also known as &quot;handle/body idiom&quot;..." alt="" coords="32,5,129,127"/>
+<area shape="rect" id="node4" href="$class_cattle.html" title="This Class represents a Cattle for the GiroDeGado software." alt="" coords="180,189,331,501"/>
+</map>

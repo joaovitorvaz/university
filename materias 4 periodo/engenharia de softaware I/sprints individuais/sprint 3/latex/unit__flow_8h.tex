@@ -1,0 +1,393 @@
+\hypertarget{unit__flow_8h}{}\doxysection{BCC322-\/\+TP1/test/unit/unit\+\_\+flow.h File Reference}
+\label{unit__flow_8h}\index{BCC322-\/TP1/test/unit/unit\_flow.h@{BCC322-\/TP1/test/unit/unit\_flow.h}}
+{\ttfamily \#include $<$assert.\+h$>$}\newline
+{\ttfamily \#include $<$iostream$>$}\newline
+{\ttfamily \#include $<$string$>$}\newline
+{\ttfamily \#include \char`\"{}../../src/system.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}../../src/flow.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}./utils/mem\+\_\+usage.\+h\char`\"{}}\newline
+Include dependency graph for unit\+\_\+flow.\+h\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{class_exponencial_flow}{Exponencial\+Flow}}
+\begin{DoxyCompactList}\small\item\em Class \mbox{\hyperlink{class_exponencial_flow}{Exponencial\+Flow}}. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{unit__flow_8h_ab702106cf3b3e96750b6845ded4e0299}{RESET}}~\char`\"{}\textbackslash{}033\mbox{[}0m\char`\"{}  /$\ast$ Escape sequence to reset color output to default. $\ast$/
+\item 
+\#define \mbox{\hyperlink{unit__flow_8h_acfbc006ea433ad708fdee3e82996e721}{GREEN}}~\char`\"{}\textbackslash{}033\mbox{[}32m\char`\"{} /$\ast$ Escape sequence to a green color output. $\ast$/
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a4965358b9c104dc75cf98a59e781bde9}{unit\+\_\+flow\+\_\+constructor}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a9970ed96e8746d56b35aa4f432bbcf18}{unit\+\_\+flow\+\_\+copy\+\_\+constructor}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_aa9c5113c9769271d9810118a247bca01}{unit\+\_\+flow\+\_\+destructor}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_af37796551d03a5257f210abe20cdd818}{unit\+\_\+flow\+\_\+get\+Name}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_aed589f1c9c5ec42aecf5b20b811bacfe}{unit\+\_\+flow\+\_\+set\+Name}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_aa9b5d1d6a9b5aadc2083f100b0c6596a}{unit\+\_\+flow\+\_\+get\+Source}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a6c839e92f50b2fc37595ac2f21808dbb}{unit\+\_\+flow\+\_\+set\+Source}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a98d897e2f786b7b38017ff90404c5feb}{unit\+\_\+flow\+\_\+clear\+Source}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a73ff889bc183b97d79a4c207b9dd88f7}{unit\+\_\+flow\+\_\+get\+Target}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a8aa7bc33d472e8a01a0a33d7dcd328d8}{unit\+\_\+flow\+\_\+set\+Target}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a28a40d8b0c85b11e45ea124630d9c881}{unit\+\_\+flow\+\_\+clear\+Target}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a4b0dec1d1d14f7d8a67aae2ae74fd448}{unit\+\_\+flow\+\_\+assingment\+Operator}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_ae45024c61711826abda94b5c9591edc7}{unit\+\_\+flow\+\_\+execute}} ()
+\item 
+void \mbox{\hyperlink{unit__flow_8h_a44d8a3170a3ac12683feef3d4bcd3554}{run\+\_\+unit\+\_\+tests\+\_\+flow}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Macro Definition Documentation}
+\mbox{\Hypertarget{unit__flow_8h_acfbc006ea433ad708fdee3e82996e721}\label{unit__flow_8h_acfbc006ea433ad708fdee3e82996e721}} 
+\index{unit\_flow.h@{unit\_flow.h}!GREEN@{GREEN}}
+\index{GREEN@{GREEN}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{GREEN}{GREEN}}
+{\footnotesize\ttfamily \#define GREEN~\char`\"{}\textbackslash{}033\mbox{[}32m\char`\"{} /$\ast$ Escape sequence to a green color output. $\ast$/}
+
+\mbox{\Hypertarget{unit__flow_8h_ab702106cf3b3e96750b6845ded4e0299}\label{unit__flow_8h_ab702106cf3b3e96750b6845ded4e0299}} 
+\index{unit\_flow.h@{unit\_flow.h}!RESET@{RESET}}
+\index{RESET@{RESET}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{RESET}{RESET}}
+{\footnotesize\ttfamily \#define RESET~\char`\"{}\textbackslash{}033\mbox{[}0m\char`\"{}  /$\ast$ Escape sequence to reset color output to default. $\ast$/}
+
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{unit__flow_8h_a44d8a3170a3ac12683feef3d4bcd3554}\label{unit__flow_8h_a44d8a3170a3ac12683feef3d4bcd3554}} 
+\index{unit\_flow.h@{unit\_flow.h}!run\_unit\_tests\_flow@{run\_unit\_tests\_flow}}
+\index{run\_unit\_tests\_flow@{run\_unit\_tests\_flow}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{run\_unit\_tests\_flow()}{run\_unit\_tests\_flow()}}
+{\footnotesize\ttfamily void run\+\_\+unit\+\_\+tests\+\_\+flow (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the function that runs all the unit tests of the \mbox{\hyperlink{class_flow}{Flow}} class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a44d8a3170a3ac12683feef3d4bcd3554_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=254pt]{unit__flow_8h_a44d8a3170a3ac12683feef3d4bcd3554_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a4b0dec1d1d14f7d8a67aae2ae74fd448}\label{unit__flow_8h_a4b0dec1d1d14f7d8a67aae2ae74fd448}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_assingmentOperator@{unit\_flow\_assingmentOperator}}
+\index{unit\_flow\_assingmentOperator@{unit\_flow\_assingmentOperator}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_assingmentOperator()}{unit\_flow\_assingmentOperator()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+assingment\+Operator (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} assingment operator unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a4b0dec1d1d14f7d8a67aae2ae74fd448_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a4b0dec1d1d14f7d8a67aae2ae74fd448_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a98d897e2f786b7b38017ff90404c5feb}\label{unit__flow_8h_a98d897e2f786b7b38017ff90404c5feb}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_clearSource@{unit\_flow\_clearSource}}
+\index{unit\_flow\_clearSource@{unit\_flow\_clearSource}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_clearSource()}{unit\_flow\_clearSource()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+clear\+Source (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method clear\+Source() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=322pt]{unit__flow_8h_a98d897e2f786b7b38017ff90404c5feb_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a98d897e2f786b7b38017ff90404c5feb_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a28a40d8b0c85b11e45ea124630d9c881}\label{unit__flow_8h_a28a40d8b0c85b11e45ea124630d9c881}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_clearTarget@{unit\_flow\_clearTarget}}
+\index{unit\_flow\_clearTarget@{unit\_flow\_clearTarget}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_clearTarget()}{unit\_flow\_clearTarget()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+clear\+Target (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method clear\+Target() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=314pt]{unit__flow_8h_a28a40d8b0c85b11e45ea124630d9c881_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a28a40d8b0c85b11e45ea124630d9c881_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a4965358b9c104dc75cf98a59e781bde9}\label{unit__flow_8h_a4965358b9c104dc75cf98a59e781bde9}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_constructor@{unit\_flow\_constructor}}
+\index{unit\_flow\_constructor@{unit\_flow\_constructor}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_constructor()}{unit\_flow\_constructor()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+constructor (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} constructor unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=311pt]{unit__flow_8h_a4965358b9c104dc75cf98a59e781bde9_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a4965358b9c104dc75cf98a59e781bde9_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a9970ed96e8746d56b35aa4f432bbcf18}\label{unit__flow_8h_a9970ed96e8746d56b35aa4f432bbcf18}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_copy\_constructor@{unit\_flow\_copy\_constructor}}
+\index{unit\_flow\_copy\_constructor@{unit\_flow\_copy\_constructor}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_copy\_constructor()}{unit\_flow\_copy\_constructor()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+copy\+\_\+constructor (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} copy constructor unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=337pt]{unit__flow_8h_a9970ed96e8746d56b35aa4f432bbcf18_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a9970ed96e8746d56b35aa4f432bbcf18_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_aa9c5113c9769271d9810118a247bca01}\label{unit__flow_8h_aa9c5113c9769271d9810118a247bca01}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_destructor@{unit\_flow\_destructor}}
+\index{unit\_flow\_destructor@{unit\_flow\_destructor}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_destructor()}{unit\_flow\_destructor()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+destructor (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} destructor unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=302pt]{unit__flow_8h_aa9c5113c9769271d9810118a247bca01_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_aa9c5113c9769271d9810118a247bca01_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_ae45024c61711826abda94b5c9591edc7}\label{unit__flow_8h_ae45024c61711826abda94b5c9591edc7}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_execute@{unit\_flow\_execute}}
+\index{unit\_flow\_execute@{unit\_flow\_execute}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_execute()}{unit\_flow\_execute()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+execute (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method execute() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_ae45024c61711826abda94b5c9591edc7_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_ae45024c61711826abda94b5c9591edc7_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_af37796551d03a5257f210abe20cdd818}\label{unit__flow_8h_af37796551d03a5257f210abe20cdd818}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_getName@{unit\_flow\_getName}}
+\index{unit\_flow\_getName@{unit\_flow\_getName}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_getName()}{unit\_flow\_getName()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+get\+Name (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method get\+Name() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=296pt]{unit__flow_8h_af37796551d03a5257f210abe20cdd818_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_af37796551d03a5257f210abe20cdd818_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_aa9b5d1d6a9b5aadc2083f100b0c6596a}\label{unit__flow_8h_aa9b5d1d6a9b5aadc2083f100b0c6596a}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_getSource@{unit\_flow\_getSource}}
+\index{unit\_flow\_getSource@{unit\_flow\_getSource}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_getSource()}{unit\_flow\_getSource()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+get\+Source (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method get\+Source() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=315pt]{unit__flow_8h_aa9b5d1d6a9b5aadc2083f100b0c6596a_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_aa9b5d1d6a9b5aadc2083f100b0c6596a_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a73ff889bc183b97d79a4c207b9dd88f7}\label{unit__flow_8h_a73ff889bc183b97d79a4c207b9dd88f7}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_getTarget@{unit\_flow\_getTarget}}
+\index{unit\_flow\_getTarget@{unit\_flow\_getTarget}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_getTarget()}{unit\_flow\_getTarget()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+get\+Target (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method get\+Target() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=311pt]{unit__flow_8h_a73ff889bc183b97d79a4c207b9dd88f7_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a73ff889bc183b97d79a4c207b9dd88f7_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_aed589f1c9c5ec42aecf5b20b811bacfe}\label{unit__flow_8h_aed589f1c9c5ec42aecf5b20b811bacfe}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_setName@{unit\_flow\_setName}}
+\index{unit\_flow\_setName@{unit\_flow\_setName}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_setName()}{unit\_flow\_setName()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+set\+Name (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method set\+Name() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=296pt]{unit__flow_8h_aed589f1c9c5ec42aecf5b20b811bacfe_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_aed589f1c9c5ec42aecf5b20b811bacfe_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a6c839e92f50b2fc37595ac2f21808dbb}\label{unit__flow_8h_a6c839e92f50b2fc37595ac2f21808dbb}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_setSource@{unit\_flow\_setSource}}
+\index{unit\_flow\_setSource@{unit\_flow\_setSource}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_setSource()}{unit\_flow\_setSource()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+set\+Source (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method set\+Source() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=315pt]{unit__flow_8h_a6c839e92f50b2fc37595ac2f21808dbb_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a6c839e92f50b2fc37595ac2f21808dbb_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{unit__flow_8h_a8aa7bc33d472e8a01a0a33d7dcd328d8}\label{unit__flow_8h_a8aa7bc33d472e8a01a0a33d7dcd328d8}} 
+\index{unit\_flow.h@{unit\_flow.h}!unit\_flow\_setTarget@{unit\_flow\_setTarget}}
+\index{unit\_flow\_setTarget@{unit\_flow\_setTarget}!unit\_flow.h@{unit\_flow.h}}
+\doxysubsubsection{\texorpdfstring{unit\_flow\_setTarget()}{unit\_flow\_setTarget()}}
+{\footnotesize\ttfamily void unit\+\_\+flow\+\_\+set\+Target (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Function prototype for the \mbox{\hyperlink{class_flow}{Flow}} class\textquotesingle{} method set\+Target() unit test. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=311pt]{unit__flow_8h_a8aa7bc33d472e8a01a0a33d7dcd328d8_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{unit__flow_8h_a8aa7bc33d472e8a01a0a33d7dcd328d8_icgraph}
+\end{center}
+\end{figure}

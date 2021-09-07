@@ -1,0 +1,8 @@
+<map id="GiroDeGado/gui/entity/usermanagementscreen.h" name="GiroDeGado/gui/entity/usermanagementscreen.h">
+<area shape="rect" id="node1" title="This file contains the screen for management of all features related to the users for the GiroDeGado ..." alt="" coords="9,5,185,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,73,129"/>
+<area shape="rect" id="node3" href="$farm_8h.html" title="This file contains the interface of a Farm for the GiroDeGado software." alt="" coords="98,95,213,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="29,184,85,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="109,184,201,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="225,184,312,211"/>
+</map>

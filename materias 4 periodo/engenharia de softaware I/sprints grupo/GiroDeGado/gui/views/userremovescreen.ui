@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>UserRemoveScreen</class>
+ <widget class="QDialog" name="UserRemoveScreen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Tela de Exclusão de Usuário</string>
+  </property>
+  <widget class="QLabel" name="labelNickname">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>100</y>
+     <width>201</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Nome de Usuário</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelTitle">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>101</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Giro de Gado</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="inputNickname">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>120</y>
+     <width>551</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="removeButton">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>460</y>
+     <width>301</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Remover</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="userRemoveTable">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>190</y>
+     <width>471</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <row>
+    <property name="text">
+     <string>Usuário</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Nome de Usuário</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Nome</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Nascimento</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Tipo</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QPushButton" name="okButton">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>120</y>
+     <width>75</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Ok</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backButton">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>460</y>
+     <width>301</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Voltar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

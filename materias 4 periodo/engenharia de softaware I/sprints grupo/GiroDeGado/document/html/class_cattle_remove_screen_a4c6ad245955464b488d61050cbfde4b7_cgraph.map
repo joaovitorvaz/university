@@ -1,0 +1,12 @@
+<map id="CattleRemoveScreen::on_okButton_clicked" name="CattleRemoveScreen::on_okButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,156,242"/>
+<area shape="rect" id="node2" href="$class_farm.html#a29b4ed761d03a8ecb8b01808d4dfde41" title=" " alt="" coords="204,5,407,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#a1e6e134122270fc013cadea89f7ca122" title=" " alt="" coords="222,56,389,83"/>
+<area shape="rect" id="node4" href="$class_farm.html#a4c6bf4782413446068a72748518ecd1f" title=" " alt="" coords="232,107,379,133"/>
+<area shape="rect" id="node5" href="$class_farm.html#a8bdfbfb6dc52079086d9cc8143c4d326" title=" " alt="" coords="229,157,382,184"/>
+<area shape="rect" id="node6" href="$class_farm.html#a251ad89b0f299ce5a1f9474eb1db7fe8" title=" " alt="" coords="231,208,380,235"/>
+<area shape="rect" id="node7" href="$class_farm.html#ae254fdf9753ae6cf0c59c4fa878bc999" title=" " alt="" coords="229,259,381,285"/>
+<area shape="rect" id="node8" href="$class_farm.html#a27c0c130017bfde0479f0a7742c66510" title=" " alt="" coords="233,309,378,336"/>
+<area shape="rect" id="node9" href="$class_farm.html#a4791c0309f7b5c968470d81abe7255de" title=" " alt="" coords="229,360,382,387"/>
+<area shape="rect" id="node10" href="$class_cattle_remove_screen.html#a0f9a9be4cb5c72fe149fe42879ac91d7" title=" " alt="" coords="234,411,377,453"/>
+</map>

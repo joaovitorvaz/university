@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CattleBirthScreen</class>
+ <widget class="QDialog" name="CattleBirthScreen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Tela de Parto de Gado</string>
+  </property>
+  <widget class="QLabel" name="labelMother">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>260</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Mãe</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelBreed">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>180</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Raça</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="inputMother">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>280</y>
+     <width>261</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelEarring">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>100</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Brinco:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelTitle">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>81</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Giro de Gado</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="inputWeight">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>360</y>
+     <width>261</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelDate">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>340</y>
+     <width>141</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Data de nascimento</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="inputFather">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>280</y>
+     <width>271</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelFather">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>260</y>
+     <width>111</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Pai</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="inputBreed">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>200</y>
+     <width>571</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="inputDate">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>360</y>
+     <width>271</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelWeight">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>340</y>
+     <width>121</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Peso</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="registerButton">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>480</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Cadastrar</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backButton">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>480</y>
+     <width>191</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Voltar</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelCattleEarring">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>100</y>
+     <width>141</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>#10</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,7 @@
+<map id="CattleRemoveScreen::on_removeButton_clicked" name="CattleRemoveScreen::on_removeButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,184,119"/>
+<area shape="rect" id="node2" href="$class_farm.html#a5329f10759b521886021dd34820caf52" title=" " alt="" coords="250,5,413,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#acf9273fa807d2595a1147bad28b546b0" title=" " alt="" coords="267,56,396,83"/>
+<area shape="rect" id="node4" href="$class_cattle_remove_screen.html#a0f9a9be4cb5c72fe149fe42879ac91d7" title=" " alt="" coords="260,107,403,149"/>
+<area shape="rect" id="node5" href="$class_farm.html#a1acd8cc7886264e1e342ff18d50ff454" title=" " alt="" coords="232,173,431,200"/>
+</map>

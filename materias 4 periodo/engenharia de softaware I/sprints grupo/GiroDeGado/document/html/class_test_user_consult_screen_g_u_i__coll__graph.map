@@ -1,0 +1,9 @@
+<map id="TestUserConsultScreenGUI" name="TestUserConsultScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1072,207,1208"/>
+<area shape="rect" id="node2" title=" " alt="" coords="49,888,120,965"/>
+<area shape="rect" id="node3" href="$class_user_query_screen.html" title=" " alt="" coords="145,844,318,1009"/>
+<area shape="rect" id="node4" title=" " alt="" coords="67,477,135,554"/>
+<area shape="rect" id="node5" href="$class_ui_1_1_user_query_screen.html" title=" " alt="" coords="159,477,304,554"/>
+<area shape="rect" id="node6" href="$class_ui___user_query_screen.html" title=" " alt="" coords="159,5,303,200"/>
+<area shape="rect" id="node7" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="328,249,513,781"/>
+</map>

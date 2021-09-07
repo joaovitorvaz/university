@@ -1,0 +1,7 @@
+<map id="FinancialConsultScreen::on_okButton_clicked" name="FinancialConsultScreen::on_okButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,164,131"/>
+<area shape="rect" id="node2" href="$class_financial_consult_screen.html#af9f869cb05eca2f45fba465d3c98a506" title=" " alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node3" href="$class_farm.html#a0553f0ab93db2696fa05a2dcba9e55aa" title=" " alt="" coords="230,71,353,98"/>
+<area shape="rect" id="node4" href="$class_farm.html#a0cfc73bdcc93e9e3d7a9e18ad14170ff" title=" " alt="" coords="232,122,351,149"/>
+<area shape="rect" id="node5" href="$class_farm.html#a0a370ef89d4e4d3cac9cc68146e7a884" title=" " alt="" coords="229,173,354,199"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="UserEditScreen::on_signButton_clicked" name="UserEditScreen::on_signButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,150,144,191"/>
+<area shape="rect" id="node2" href="$class_user_edit_screen.html#ad64e156be09ad44549bc75948ce3a890" title=" " alt="" coords="192,5,361,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#a5f96a705c12df164b910d8141efe374d" title=" " alt="" coords="195,56,358,83"/>
+<area shape="rect" id="node4" href="$class_farm.html#a77926a81ad972da07cff3d004c2a8ace" title=" " alt="" coords="211,107,343,133"/>
+<area shape="rect" id="node5" href="$class_farm.html#ac579108380284df9c5446cb9bf73d620" title=" " alt="" coords="207,157,346,184"/>
+<area shape="rect" id="node6" href="$class_farm.html#a67ce1f45c8de5a26662a6e7e766cab70" title=" " alt="" coords="195,208,358,235"/>
+<area shape="rect" id="node7" href="$class_farm.html#aa48c0e774a2a48b98d2dea6cf2f61e28" title=" " alt="" coords="195,259,358,285"/>
+<area shape="rect" id="node8" href="$class_farm.html#aa33b498efaf8e16887df200b48c1cc80" title=" " alt="" coords="210,309,343,336"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GiroDeGado/gui/entity/cattlebirthscreen.h" name="GiroDeGado/gui/entity/cattlebirthscreen.h">
+<area shape="rect" id="node1" title="This file contains the screen for the registration of cattle from birth for the GiroDeGado software." alt="" coords="527,5,678,47"/>
+<area shape="rect" id="node2" href="$debug_2moc__cattlebirthscreen_8cpp.html" title=" " alt="" coords="5,102,224,143"/>
+<area shape="rect" id="node3" href="$tests_2debug_2moc__cattlebirthscreen_8cpp.html" title=" " alt="" coords="249,102,503,143"/>
+<area shape="rect" id="node4" href="$cattlebirthscreen_8cpp.html" title=" " alt="" coords="527,102,678,143"/>
+<area shape="rect" id="node5" href="$cattleregisterscreen_8cpp.html" title=" " alt="" coords="703,102,868,143"/>
+<area shape="rect" id="node6" href="$cattle__birth__unit__test_8cpp.html" title=" " alt="" coords="893,95,1043,151"/>
+<area shape="rect" id="node7" href="$gui__tests_2main_8cpp.html" title=" " alt="" coords="893,199,1043,240"/>
+</map>

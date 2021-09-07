@@ -1,0 +1,7 @@
+<map id="FinancialRemoveScreen" name="FinancialRemoveScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="95,859,285,1039"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,491,73,569"/>
+<area shape="rect" id="node3" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="97,264,283,796"/>
+<area shape="rect" id="node4" href="$class_ui_1_1_financial_remove_screen.html" title=" " alt="" coords="307,491,489,569"/>
+<area shape="rect" id="node5" href="$class_ui___financial_remove_screen.html" title=" " alt="" coords="308,5,488,215"/>
+</map>

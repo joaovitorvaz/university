@@ -1,0 +1,8 @@
+<map id="GiroDeGado/api/includes/user.h" name="GiroDeGado/api/includes/user.h">
+<area shape="rect" id="node1" title="This file contains the interface of a User for the GiroDeGado software." alt="" coords="67,5,234,47"/>
+<area shape="rect" id="node2" href="$user_impl_8h.html" title="This file contains the handle/body of a User for the GiroDeGado software." alt="" coords="67,95,234,136"/>
+<area shape="rect" id="node3" href="$user_impl_8cpp.html" title=" " alt="" coords="5,184,136,225"/>
+<area shape="rect" id="node4" href="$unit__user_8h.html" title="This file contains the unit tests of the User class for the GiroDeGado software." alt="" coords="161,184,301,225"/>
+<area shape="rect" id="node5" href="$main__unit__test_8cpp.html" title=" " alt="" coords="62,273,223,315"/>
+<area shape="rect" id="node6" href="$unit__user_8cpp.html" title=" " alt="" coords="247,273,387,315"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GiroDeGado/gui/entity/homescreen.h" name="GiroDeGado/gui/entity/homescreen.h">
+<area shape="rect" id="node1" title="This file contains the home screen for the GiroDeGado software." alt="" coords="191,5,341,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,73,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,102,205,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="230,102,302,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="327,102,381,129"/>
+<area shape="rect" id="node6" href="$farm_8h.html" title="This file contains the interface of a Farm for the GiroDeGado software." alt="" coords="406,95,521,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="337,184,393,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="417,184,509,211"/>
+<area shape="rect" id="node9" title=" " alt="" coords="533,184,620,211"/>
+</map>

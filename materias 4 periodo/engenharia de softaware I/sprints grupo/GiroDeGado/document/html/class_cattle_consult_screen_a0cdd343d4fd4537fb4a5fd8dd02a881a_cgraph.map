@@ -1,0 +1,15 @@
+<map id="CattleConsultScreen::on_okButton_clicked" name="CattleConsultScreen::on_okButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,277,156,318"/>
+<area shape="rect" id="node2" href="$class_farm.html#a29b4ed761d03a8ecb8b01808d4dfde41" title=" " alt="" coords="204,5,407,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#a1e6e134122270fc013cadea89f7ca122" title=" " alt="" coords="222,56,389,83"/>
+<area shape="rect" id="node4" href="$class_farm.html#a4c6bf4782413446068a72748518ecd1f" title=" " alt="" coords="232,107,379,133"/>
+<area shape="rect" id="node5" href="$class_farm.html#a8bdfbfb6dc52079086d9cc8143c4d326" title=" " alt="" coords="229,157,382,184"/>
+<area shape="rect" id="node6" href="$class_farm.html#a251ad89b0f299ce5a1f9474eb1db7fe8" title=" " alt="" coords="231,208,380,235"/>
+<area shape="rect" id="node7" href="$class_farm.html#ae254fdf9753ae6cf0c59c4fa878bc999" title=" " alt="" coords="229,259,381,285"/>
+<area shape="rect" id="node8" href="$class_farm.html#a27c0c130017bfde0479f0a7742c66510" title=" " alt="" coords="233,309,378,336"/>
+<area shape="rect" id="node9" href="$class_farm.html#a4791c0309f7b5c968470d81abe7255de" title=" " alt="" coords="229,360,382,387"/>
+<area shape="rect" id="node10" href="$class_cattle_consult_screen.html#a118e5d086ee8720bebd14c877c742fc3" title=" " alt="" coords="235,411,376,453"/>
+<area shape="rect" id="node11" href="$class_farm.html#a0553f0ab93db2696fa05a2dcba9e55aa" title=" " alt="" coords="244,477,367,504"/>
+<area shape="rect" id="node12" href="$class_farm.html#a0cfc73bdcc93e9e3d7a9e18ad14170ff" title=" " alt="" coords="246,528,365,555"/>
+<area shape="rect" id="node13" href="$class_farm.html#a0a370ef89d4e4d3cac9cc68146e7a884" title=" " alt="" coords="243,579,368,605"/>
+</map>

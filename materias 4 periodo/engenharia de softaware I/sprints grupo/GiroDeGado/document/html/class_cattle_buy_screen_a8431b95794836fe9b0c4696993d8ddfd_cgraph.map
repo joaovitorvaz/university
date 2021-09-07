@@ -1,0 +1,6 @@
+<map id="CattleBuyScreen::CattleBuyScreen" name="CattleBuyScreen::CattleBuyScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,191,69"/>
+<area shape="rect" id="node2" href="$class_farm.html#a8551ba881705694de18c12b47fcefdda" title=" " alt="" coords="239,5,433,32"/>
+<area shape="rect" id="node3" href="$class_ui___cattle_buy_screen.html#a2e5ef4ce522443ba47493d12f56da44a" title=" " alt="" coords="267,57,405,98"/>
+<area shape="rect" id="node4" href="$class_ui___cattle_buy_screen.html#ad1230941f4149b5e3c5c1eaadec0aa01" title=" " alt="" coords="481,57,620,98"/>
+</map>

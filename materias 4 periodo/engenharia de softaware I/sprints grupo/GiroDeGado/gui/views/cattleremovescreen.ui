@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CattleRemoveScreen</class>
+ <widget class="QDialog" name="CattleRemoveScreen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Tela de Exclusão de Gado</string>
+  </property>
+  <widget class="QLabel" name="labelTitle">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Giro de Gado</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>50</y>
+     <width>851</width>
+     <height>461</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QRadioButton" name="radioButtonDeath">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>300</y>
+      <width>82</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Morte</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButtonSell">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>300</y>
+      <width>82</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Venda</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelPrice">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>370</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Valor</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelReason">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>270</y>
+      <width>231</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Selecione o motivo da remoção:</string>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="cattleRemoveTable">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>150</y>
+      <width>851</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <row>
+     <property name="text">
+      <string>Gado</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </row>
+    <column>
+     <property name="text">
+      <string>Brinco</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Raça</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Aquisicao</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Nascimento</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Pai</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Mae</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Peso</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Valor</string>
+     </property>
+    </column>
+    <item row="0" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <family>MS Shell Dlg 2</family>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="2">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="3">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="4">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="5">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="6">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+    <item row="0" column="7">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsDragEnabled|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLineEdit" name="inputCattleEarring">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>80</y>
+      <width>701</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCattleEarring">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>50</y>
+      <width>221</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Brinco do gado a ser removido</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="okButton">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>80</y>
+      <width>75</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Ok</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="inputPrice">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>390</y>
+      <width>251</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="removeButton">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>530</y>
+     <width>301</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Remover</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backButton">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>530</y>
+     <width>301</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Voltar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

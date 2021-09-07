@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CattleManagementScreen</class>
+ <widget class="QDialog" name="CattleManagementScreen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Tela de Gerenciamento de Gado</string>
+  </property>
+  <widget class="QPushButton" name="queryButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>150</y>
+     <width>531</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Consulta</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="updateButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>250</y>
+     <width>531</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Atualização</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="registerButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>50</y>
+     <width>531</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Cadastro</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelTitle">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Giro de Gado</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="removeButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>350</y>
+     <width>531</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Exclusão</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>450</y>
+     <width>531</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Voltar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

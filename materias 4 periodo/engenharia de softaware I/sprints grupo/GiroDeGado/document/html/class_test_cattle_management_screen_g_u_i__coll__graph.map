@@ -1,0 +1,9 @@
+<map id="TestCattleManagementScreenGUI" name="TestCattleManagementScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1116,224,1267"/>
+<area shape="rect" id="node2" title=" " alt="" coords="58,910,129,987"/>
+<area shape="rect" id="node3" href="$class_cattle_management_screen.html" title=" " alt="" coords="153,844,353,1053"/>
+<area shape="rect" id="node4" title=" " alt="" coords="69,477,137,554"/>
+<area shape="rect" id="node5" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="161,249,346,781"/>
+<area shape="rect" id="node6" href="$class_ui_1_1_cattle_management_screen.html" title=" " alt="" coords="371,477,563,554"/>
+<area shape="rect" id="node7" href="$class_ui___cattle_management_screen.html" title=" " alt="" coords="371,5,562,200"/>
+</map>

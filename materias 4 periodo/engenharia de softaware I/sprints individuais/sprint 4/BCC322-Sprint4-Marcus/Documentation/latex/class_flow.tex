@@ -1,0 +1,247 @@
+\hypertarget{class_flow}{}\doxysection{Flow Class Reference}
+\label{class_flow}\index{Flow@{Flow}}
+
+
+Class \mbox{\hyperlink{class_flow}{Flow}}.  
+
+
+
+
+{\ttfamily \#include $<$flow.\+h$>$}
+
+
+
+Inheritance diagram for Flow\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_flow__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Flow\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=163pt]{class_flow__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+virtual \mbox{\hyperlink{class_flow_a325d284a50ca3274b126b21f5c39b9af}{$\sim$\+Flow}} ()
+\item 
+virtual double \mbox{\hyperlink{class_flow_a619be0b590c78202127bc6ac7fb04029}{execute}} ()=0
+\item 
+virtual string \mbox{\hyperlink{class_flow_aa91a8025b6dbb27ee5137c7c9ad0c564}{get\+Name}} () const =0
+\item 
+virtual void \mbox{\hyperlink{class_flow_aa20f016d470e011f8955dfbdfc88fa06}{set\+Name}} (string flow\+Name)=0
+\item 
+virtual \mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_flow_aff381195663a5028494e3de9c6194f2c}{get\+Source}} () const =0
+\item 
+virtual void \mbox{\hyperlink{class_flow_a4af218ba8b4875c0c08c92817d8c2a96}{set\+Source}} (\mbox{\hyperlink{class_system}{System}} $\ast$source\+Sys)=0
+\item 
+virtual void \mbox{\hyperlink{class_flow_a98e7aafb65699a9645a22f215b49c8b0}{clear\+Source}} ()=0
+\item 
+virtual \mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_flow_a81aeceffcb2b425af124c3b0d1962786}{get\+Target}} () const =0
+\item 
+virtual void \mbox{\hyperlink{class_flow_a2b7c129655bf7cf553e16585930b0ccd}{set\+Target}} (\mbox{\hyperlink{class_system}{System}} $\ast$target\+Sys)=0
+\item 
+virtual void \mbox{\hyperlink{class_flow_a52f8ab7ff430f5d2e87aa0fdb12ad64b}{clear\+Target}} ()=0
+\end{DoxyCompactItemize}
+\doxysubsection*{Friends}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{class_flow_a2bf2a0e9b454c55aa5dcb5aa4698697b}{Model}}
+\item 
+class \mbox{\hyperlink{class_flow_afb81d2077780e342b8fd3654cabc4c19}{Model\+Impl}}
+\item 
+class \mbox{\hyperlink{class_flow_a721d5d04f522e83ced8e0b615c21fcda}{Unit\+Flow}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Class \mbox{\hyperlink{class_flow}{Flow}}. 
+
+This Class represents a flow in the General Systems Theory implemented in this code. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_flow_a325d284a50ca3274b126b21f5c39b9af}\label{class_flow_a325d284a50ca3274b126b21f5c39b9af}} 
+\index{Flow@{Flow}!````~Flow@{$\sim$Flow}}
+\index{````~Flow@{$\sim$Flow}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{$\sim$Flow()}{~Flow()}}
+{\footnotesize\ttfamily virtual Flow\+::$\sim$\+Flow (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+This is the default destructor for the \mbox{\hyperlink{class_flow}{Flow}} Class. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_flow_a98e7aafb65699a9645a22f215b49c8b0}\label{class_flow_a98e7aafb65699a9645a22f215b49c8b0}} 
+\index{Flow@{Flow}!clearSource@{clearSource}}
+\index{clearSource@{clearSource}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{clearSource()}{clearSource()}}
+{\footnotesize\ttfamily virtual void Flow\+::clear\+Source (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Sets the pointer of the source attribute as NULL. 
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a92a3d902afab0aa20ec2886d55264156}{Flow\+Impl}}.
+
+\mbox{\Hypertarget{class_flow_a52f8ab7ff430f5d2e87aa0fdb12ad64b}\label{class_flow_a52f8ab7ff430f5d2e87aa0fdb12ad64b}} 
+\index{Flow@{Flow}!clearTarget@{clearTarget}}
+\index{clearTarget@{clearTarget}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{clearTarget()}{clearTarget()}}
+{\footnotesize\ttfamily virtual void Flow\+::clear\+Target (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Sets the pointer of the target attribute as NULL. 
+
+Implemented in \mbox{\hyperlink{class_flow_impl_afec6eff9cdd0611aa49bfcad74a1f9bd}{Flow\+Impl}}.
+
+\mbox{\Hypertarget{class_flow_a619be0b590c78202127bc6ac7fb04029}\label{class_flow_a619be0b590c78202127bc6ac7fb04029}} 
+\index{Flow@{Flow}!execute@{execute}}
+\index{execute@{execute}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{execute()}{execute()}}
+{\footnotesize\ttfamily virtual double Flow\+::execute (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+A pure virtual method that will be inherited by subclasses created by the user, and that will contain an equation that will be executed by the model. 
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a88d14f759988f1dcf393b83a93aea1f1}{Flow\+Impl}}, \mbox{\hyperlink{class_exponencial_flow_a3f5d88df645307180879a88501b64863}{Exponencial\+Flow}}, \mbox{\hyperlink{class_complex_flow_r_a3b8d9d5dca6e0180d48192d48040d17c}{Complex\+FlowR}}, \mbox{\hyperlink{class_complex_flow_g_a8cfa9dca03275f0999de008449d16c56}{Complex\+FlowG}}, \mbox{\hyperlink{class_complex_flow_v_a5478a557bb037d90430ab092569c695a}{Complex\+FlowV}}, \mbox{\hyperlink{class_complex_flow_u_a75627b2a7b0cdbf767c92aa102840458}{Complex\+FlowU}}, \mbox{\hyperlink{class_complex_flow_t_a1ab577756e7a0c1eeaa47779bb0952cc}{Complex\+FlowT}}, \mbox{\hyperlink{class_complex_flow_f_adfca5685dfe25d0eadf8abd9bf523829}{Complex\+FlowF}}, \mbox{\hyperlink{class_logistic_flow_afdc1e2ec0eb61b71b367f8fc2677e371}{Logistic\+Flow}}, and \mbox{\hyperlink{class_exponencial_flow_a3f5d88df645307180879a88501b64863}{Exponencial\+Flow}}.
+
+\mbox{\Hypertarget{class_flow_aa91a8025b6dbb27ee5137c7c9ad0c564}\label{class_flow_aa91a8025b6dbb27ee5137c7c9ad0c564}} 
+\index{Flow@{Flow}!getName@{getName}}
+\index{getName@{getName}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{getName()}{getName()}}
+{\footnotesize\ttfamily virtual string Flow\+::get\+Name (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Returns the name attribute in the \mbox{\hyperlink{class_flow}{Flow}} Class. \begin{DoxyReturn}{Returns}
+string -\/ the content name attribute. ~\newline
+ 
+\end{DoxyReturn}
+
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a63453811afa24e0799e54e22161738a8}{Flow\+Impl}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_flow_aa91a8025b6dbb27ee5137c7c9ad0c564_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_flow_aff381195663a5028494e3de9c6194f2c}\label{class_flow_aff381195663a5028494e3de9c6194f2c}} 
+\index{Flow@{Flow}!getSource@{getSource}}
+\index{getSource@{getSource}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{getSource()}{getSource()}}
+{\footnotesize\ttfamily virtual \mbox{\hyperlink{class_system}{System}}$\ast$ Flow\+::get\+Source (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Returns the source attribute in the \mbox{\hyperlink{class_flow}{Flow}} Class. ~\newline
+ \begin{DoxyReturn}{Returns}
+System$\ast$ -\/ the pointer of the source system. 
+\end{DoxyReturn}
+
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a54940323059d2c4158f4146080841f32}{Flow\+Impl}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_flow_aff381195663a5028494e3de9c6194f2c_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_flow_a81aeceffcb2b425af124c3b0d1962786}\label{class_flow_a81aeceffcb2b425af124c3b0d1962786}} 
+\index{Flow@{Flow}!getTarget@{getTarget}}
+\index{getTarget@{getTarget}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{getTarget()}{getTarget()}}
+{\footnotesize\ttfamily virtual \mbox{\hyperlink{class_system}{System}}$\ast$ Flow\+::get\+Target (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Returns the target attribute in the \mbox{\hyperlink{class_flow}{Flow}} Class. \begin{DoxyReturn}{Returns}
+System$\ast$ -\/ the pointer of the target system. 
+\end{DoxyReturn}
+
+
+Implemented in \mbox{\hyperlink{class_flow_impl_ab07923bc230308cd949f627a92901bca}{Flow\+Impl}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_flow_a81aeceffcb2b425af124c3b0d1962786_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_flow_aa20f016d470e011f8955dfbdfc88fa06}\label{class_flow_aa20f016d470e011f8955dfbdfc88fa06}} 
+\index{Flow@{Flow}!setName@{setName}}
+\index{setName@{setName}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{setName()}{setName()}}
+{\footnotesize\ttfamily virtual void Flow\+::set\+Name (\begin{DoxyParamCaption}\item[{string}]{flow\+Name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Sets the name attribute in the \mbox{\hyperlink{class_flow}{Flow}} Class. 
+\begin{DoxyParams}{Parameters}
+{\em flow\+Name} & which will be set to the current flow. \\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a5b418614ad5d16791d364ef7d95c00ae}{Flow\+Impl}}.
+
+\mbox{\Hypertarget{class_flow_a4af218ba8b4875c0c08c92817d8c2a96}\label{class_flow_a4af218ba8b4875c0c08c92817d8c2a96}} 
+\index{Flow@{Flow}!setSource@{setSource}}
+\index{setSource@{setSource}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{setSource()}{setSource()}}
+{\footnotesize\ttfamily virtual void Flow\+::set\+Source (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{source\+Sys }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Sets the source attribute in the \mbox{\hyperlink{class_flow}{Flow}} Class. 
+\begin{DoxyParams}{Parameters}
+{\em source\+Sys} & a pointer to the source target. \\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a650a16f4a2e902f1decfb37428fc375c}{Flow\+Impl}}.
+
+\mbox{\Hypertarget{class_flow_a2b7c129655bf7cf553e16585930b0ccd}\label{class_flow_a2b7c129655bf7cf553e16585930b0ccd}} 
+\index{Flow@{Flow}!setTarget@{setTarget}}
+\index{setTarget@{setTarget}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{setTarget()}{setTarget()}}
+{\footnotesize\ttfamily virtual void Flow\+::set\+Target (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{target\+Sys }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+Sets the target attribute in the \mbox{\hyperlink{class_flow}{Flow}} Class. ~\newline
+ 
+\begin{DoxyParams}{Parameters}
+{\em target\+Sys} & a pointer to the target system. \\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_flow_impl_a9df35271364df544eed6728731b598a4}{Flow\+Impl}}.
+
+
+
+\doxysubsection{Friends And Related Function Documentation}
+\mbox{\Hypertarget{class_flow_a2bf2a0e9b454c55aa5dcb5aa4698697b}\label{class_flow_a2bf2a0e9b454c55aa5dcb5aa4698697b}} 
+\index{Flow@{Flow}!Model@{Model}}
+\index{Model@{Model}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{Model}{Model}}
+{\footnotesize\ttfamily friend class \mbox{\hyperlink{class_model}{Model}}\hspace{0.3cm}{\ttfamily [friend]}}
+
+This Class represents a model in the General Systems Theory implemented in this code. \mbox{\Hypertarget{class_flow_afb81d2077780e342b8fd3654cabc4c19}\label{class_flow_afb81d2077780e342b8fd3654cabc4c19}} 
+\index{Flow@{Flow}!ModelImpl@{ModelImpl}}
+\index{ModelImpl@{ModelImpl}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{ModelImpl}{ModelImpl}}
+{\footnotesize\ttfamily friend class \mbox{\hyperlink{class_model_impl}{Model\+Impl}}\hspace{0.3cm}{\ttfamily [friend]}}
+
+This Class represents a model in the General Systems Theory implemented in this code. \mbox{\Hypertarget{class_flow_a721d5d04f522e83ced8e0b615c21fcda}\label{class_flow_a721d5d04f522e83ced8e0b615c21fcda}} 
+\index{Flow@{Flow}!UnitFlow@{UnitFlow}}
+\index{UnitFlow@{UnitFlow}!Flow@{Flow}}
+\doxysubsubsection{\texorpdfstring{UnitFlow}{UnitFlow}}
+{\footnotesize\ttfamily friend class \mbox{\hyperlink{class_unit_flow}{Unit\+Flow}}\hspace{0.3cm}{\ttfamily [friend]}}
+
+This Class is used to test the copy constructor and assignment operator of the \mbox{\hyperlink{class_flow}{Flow}} class. 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/marcu/\+Downloads/\+BCC322-\/\+Sprint4-\/\+Marcus/\+My\+Vensim/src/\mbox{\hyperlink{flow_8h}{flow.\+h}}\end{DoxyCompactItemize}

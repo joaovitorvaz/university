@@ -1,0 +1,10 @@
+<map id="GiroDeGado/api/includes/transactionImpl.h" name="GiroDeGado/api/includes/transactionImpl.h">
+<area shape="rect" id="node1" title="This file contains the handle/body of a Transaction for the GiroDeGado software." alt="" coords="154,5,321,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="61,95,115,121"/>
+<area shape="rect" id="node3" href="$transaction_8h.html" title="This file contains the interface of a Transaction for the GiroDeGado software." alt="" coords="139,95,245,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="297,169,383,196"/>
+<area shape="rect" id="node8" href="$handlebody_8h.html" title="The classes Handle and Body implements &quot;bridge&quot; design pattern (also known as &quot;handle/body idiom&quot;)...." alt="" coords="320,95,427,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,169,77,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="102,169,157,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="181,169,273,196"/>
+</map>

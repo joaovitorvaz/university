@@ -1,0 +1,395 @@
+\hypertarget{class_system_impl}{}\doxysection{System\+Impl Class Reference}
+\label{class_system_impl}\index{SystemImpl@{SystemImpl}}
+
+
+Class \mbox{\hyperlink{class_system_impl}{System\+Impl}}.  
+
+
+
+
+{\ttfamily \#include $<$system\+Impl.\+h$>$}
+
+
+
+Inheritance diagram for System\+Impl\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=169pt]{class_system_impl__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for System\+Impl\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=169pt]{class_system_impl__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_system_impl_a89d92eb58ac9ce979e0f2b2d0a33894f}{System\+Impl}} (const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&sys)
+\item 
+\mbox{\hyperlink{class_system_impl_a9209ceeaae6b903c846ce9e214417084}{System\+Impl}} (string \mbox{\hyperlink{class_system_impl_acd123bacad8aa2b830d9ca9c8098fa84}{name}}=\char`\"{}\char`\"{}, double \mbox{\hyperlink{class_system_impl_ad068c75f35f48f312d0899d161ea7481}{value}}=0.\+0)
+\item 
+virtual \mbox{\hyperlink{class_system_impl_a0cd451779458a7bd7c224a48ed163a9e}{$\sim$\+System\+Impl}} ()
+\item 
+void \mbox{\hyperlink{class_system_impl_a7040c30e90a9b7a570a0defbd295db40}{set\+Name}} (string sys\+Name)
+\item 
+string \mbox{\hyperlink{class_system_impl_a4407f82b905d49335f76c4a18fbfef8d}{get\+Name}} () const
+\item 
+void \mbox{\hyperlink{class_system_impl_a10f6f94cc0c523b71e3f62a180c72d42}{set\+Value}} (double sys\+Value)
+\item 
+double \mbox{\hyperlink{class_system_impl_aa21b5abc7021e73715c06449fea9e08f}{get\+Value}} () const
+\item 
+double \mbox{\hyperlink{class_system_impl_ab32c3ba043eb07b3a54f605f8a600f61}{operator+}} (const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_ad4932f259efd8e6e433a4ebc64cdd75e}{operator+}} (const double \&value\+Sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_a343b55613682f2e707109c5dac1dd3d1}{operator-\/}} (const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_ad86b178a16228ffc0052d438e16f3840}{operator-\/}} (const double \&value\+Sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_a844a59072495f75f7584d25f001ebf34}{operator$\ast$}} (const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_a96900b276b77d2570549bd3041e0cf2d}{operator$\ast$}} (const double \&value\+Sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_a3df58561bb83c696c955fe6439504407}{operator/}} (const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&sys)
+\item 
+double \mbox{\hyperlink{class_system_impl_a6b0dfc9306b7dc9e325b5dff3aad9d20}{operator/}} (const double \&value\+Sys)
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_system_impl}{System\+Impl}} \& \mbox{\hyperlink{class_system_impl_aa90a45b567f1d915a6c2cadb578e3deb}{operator=}} (const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&sys)
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+string \mbox{\hyperlink{class_system_impl_acd123bacad8aa2b830d9ca9c8098fa84}{name}}
+\item 
+double \mbox{\hyperlink{class_system_impl_ad068c75f35f48f312d0899d161ea7481}{value}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Friends}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{class_system_impl_a4f3bf5ddad62048a5ba0f424952c3e35}{Flow}}
+\item 
+class \mbox{\hyperlink{class_system_impl_afb81d2077780e342b8fd3654cabc4c19}{Model\+Impl}}
+\item 
+class \mbox{\hyperlink{class_system_impl_a6682d04f47a9097422c08f54782ffaab}{Unit\+System}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Class \mbox{\hyperlink{class_system_impl}{System\+Impl}}. 
+
+This Class represents a \mbox{\hyperlink{class_system_impl}{System\+Impl}} in the General Systems Theory implemented in this code. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_system_impl_a89d92eb58ac9ce979e0f2b2d0a33894f}\label{class_system_impl_a89d92eb58ac9ce979e0f2b2d0a33894f}} 
+\index{SystemImpl@{SystemImpl}!SystemImpl@{SystemImpl}}
+\index{SystemImpl@{SystemImpl}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{SystemImpl()}{SystemImpl()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily System\+Impl\+::\+System\+Impl (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&}]{sys }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_system_impl_a89d92eb58ac9ce979e0f2b2d0a33894f_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a9209ceeaae6b903c846ce9e214417084}\label{class_system_impl_a9209ceeaae6b903c846ce9e214417084}} 
+\index{SystemImpl@{SystemImpl}!SystemImpl@{SystemImpl}}
+\index{SystemImpl@{SystemImpl}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{SystemImpl()}{SystemImpl()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily System\+Impl\+::\+System\+Impl (\begin{DoxyParamCaption}\item[{string}]{name = {\ttfamily \char`\"{}\char`\"{}},  }\item[{double}]{value = {\ttfamily 0.0} }\end{DoxyParamCaption})}
+
+This is the default constructor for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. 
+\begin{DoxyParams}{Parameters}
+{\em name} & the name of the \mbox{\hyperlink{class_system_impl}{System\+Impl}}. \\
+\hline
+{\em value} & the initial value of the \mbox{\hyperlink{class_system_impl}{System\+Impl}}. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+\mbox{\hyperlink{class_system_impl}{System\+Impl}} -\/ a \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class object. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_system_impl_a0cd451779458a7bd7c224a48ed163a9e}\label{class_system_impl_a0cd451779458a7bd7c224a48ed163a9e}} 
+\index{SystemImpl@{SystemImpl}!````~SystemImpl@{$\sim$SystemImpl}}
+\index{````~SystemImpl@{$\sim$SystemImpl}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{$\sim$SystemImpl()}{~SystemImpl()}}
+{\footnotesize\ttfamily System\+Impl\+::$\sim$\+System\+Impl (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+This is the default destructor for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_system_impl_a4407f82b905d49335f76c4a18fbfef8d}\label{class_system_impl_a4407f82b905d49335f76c4a18fbfef8d}} 
+\index{SystemImpl@{SystemImpl}!getName@{getName}}
+\index{getName@{getName}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{getName()}{getName()}}
+{\footnotesize\ttfamily string System\+Impl\+::get\+Name (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Returns the name attribute in the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. \begin{DoxyReturn}{Returns}
+string -\/ the content name attribute. ~\newline
+ 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_system_ab4f23c21832d6bbef462a5a20b296912}{System}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_system_impl_a4407f82b905d49335f76c4a18fbfef8d_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_aa21b5abc7021e73715c06449fea9e08f}\label{class_system_impl_aa21b5abc7021e73715c06449fea9e08f}} 
+\index{SystemImpl@{SystemImpl}!getValue@{getValue}}
+\index{getValue@{getValue}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{getValue()}{getValue()}}
+{\footnotesize\ttfamily double System\+Impl\+::get\+Value (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Returns the value attribute in the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. \begin{DoxyReturn}{Returns}
+double -\/ the content value attribute. ~\newline
+ 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_system_a41b673faa6c199eb8e4f204639fab4f2}{System}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_system_impl_aa21b5abc7021e73715c06449fea9e08f_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a96900b276b77d2570549bd3041e0cf2d}\label{class_system_impl_a96900b276b77d2570549bd3041e0cf2d}} 
+\index{SystemImpl@{SystemImpl}!operator$\ast$@{operator$\ast$}}
+\index{operator$\ast$@{operator$\ast$}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator$\ast$()}{operator*()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator$\ast$ (\begin{DoxyParamCaption}\item[{const double \&}]{value\+Sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}$\ast$\char`\"{}"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=342pt]{class_system_impl_a96900b276b77d2570549bd3041e0cf2d_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a844a59072495f75f7584d25f001ebf34}\label{class_system_impl_a844a59072495f75f7584d25f001ebf34}} 
+\index{SystemImpl@{SystemImpl}!operator$\ast$@{operator$\ast$}}
+\index{operator$\ast$@{operator$\ast$}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator$\ast$()}{operator*()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator$\ast$ (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&}]{sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}$\ast$\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=342pt]{class_system_impl_a844a59072495f75f7584d25f001ebf34_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_ad4932f259efd8e6e433a4ebc64cdd75e}\label{class_system_impl_ad4932f259efd8e6e433a4ebc64cdd75e}} 
+\index{SystemImpl@{SystemImpl}!operator+@{operator+}}
+\index{operator+@{operator+}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator+()}{operator+()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator+ (\begin{DoxyParamCaption}\item[{const double \&}]{value\+Sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}+\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=345pt]{class_system_impl_ad4932f259efd8e6e433a4ebc64cdd75e_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_ab32c3ba043eb07b3a54f605f8a600f61}\label{class_system_impl_ab32c3ba043eb07b3a54f605f8a600f61}} 
+\index{SystemImpl@{SystemImpl}!operator+@{operator+}}
+\index{operator+@{operator+}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator+()}{operator+()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator+ (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&}]{sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}+\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=345pt]{class_system_impl_ab32c3ba043eb07b3a54f605f8a600f61_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_ad86b178a16228ffc0052d438e16f3840}\label{class_system_impl_ad86b178a16228ffc0052d438e16f3840}} 
+\index{SystemImpl@{SystemImpl}!operator-\/@{operator-\/}}
+\index{operator-\/@{operator-\/}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator-\/()}{operator-()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator-\/ (\begin{DoxyParamCaption}\item[{const double \&}]{value\+Sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}-\/\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=342pt]{class_system_impl_ad86b178a16228ffc0052d438e16f3840_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a343b55613682f2e707109c5dac1dd3d1}\label{class_system_impl_a343b55613682f2e707109c5dac1dd3d1}} 
+\index{SystemImpl@{SystemImpl}!operator-\/@{operator-\/}}
+\index{operator-\/@{operator-\/}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator-\/()}{operator-()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator-\/ (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&}]{sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}-\/\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=342pt]{class_system_impl_a343b55613682f2e707109c5dac1dd3d1_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a6b0dfc9306b7dc9e325b5dff3aad9d20}\label{class_system_impl_a6b0dfc9306b7dc9e325b5dff3aad9d20}} 
+\index{SystemImpl@{SystemImpl}!operator/@{operator/}}
+\index{operator/@{operator/}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator/()}{operator/()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator/ (\begin{DoxyParamCaption}\item[{const double \&}]{value\+Sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}/\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=342pt]{class_system_impl_a6b0dfc9306b7dc9e325b5dff3aad9d20_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a3df58561bb83c696c955fe6439504407}\label{class_system_impl_a3df58561bb83c696c955fe6439504407}} 
+\index{SystemImpl@{SystemImpl}!operator/@{operator/}}
+\index{operator/@{operator/}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator/()}{operator/()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily double System\+Impl\+::operator/ (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&}]{sys }\end{DoxyParamCaption})}
+
+This is the overloaded \char`\"{}/\char`\"{} operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=342pt]{class_system_impl_a3df58561bb83c696c955fe6439504407_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_aa90a45b567f1d915a6c2cadb578e3deb}\label{class_system_impl_aa90a45b567f1d915a6c2cadb578e3deb}} 
+\index{SystemImpl@{SystemImpl}!operator=@{operator=}}
+\index{operator=@{operator=}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{operator=()}{operator=()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_system_impl}{System\+Impl}} \& System\+Impl\+::operator= (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{class_system_impl}{System\+Impl}} \&}]{sys }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [protected]}}
+
+This is the copy constructor for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. 
+\begin{DoxyParams}{Parameters}
+{\em sys} & the \mbox{\hyperlink{class_system_impl}{System\+Impl}} that is going to be cloned.\\
+\hline
+\end{DoxyParams}
+This is the overloaded assignment operator for the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=345pt]{class_system_impl_aa90a45b567f1d915a6c2cadb578e3deb_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a7040c30e90a9b7a570a0defbd295db40}\label{class_system_impl_a7040c30e90a9b7a570a0defbd295db40}} 
+\index{SystemImpl@{SystemImpl}!setName@{setName}}
+\index{setName@{setName}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{setName()}{setName()}}
+{\footnotesize\ttfamily void System\+Impl\+::set\+Name (\begin{DoxyParamCaption}\item[{string}]{sys\+Name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Sets the name attribute in the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. 
+\begin{DoxyParams}{Parameters}
+{\em sys\+Name} & which will be set to the current \mbox{\hyperlink{class_system_impl}{System\+Impl}}. \\
+\hline
+\end{DoxyParams}
+
+
+Implements \mbox{\hyperlink{class_system_ac4699ac5bb42d5dc0757c34f2de3d56b}{System}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_system_impl_a7040c30e90a9b7a570a0defbd295db40_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_system_impl_a10f6f94cc0c523b71e3f62a180c72d42}\label{class_system_impl_a10f6f94cc0c523b71e3f62a180c72d42}} 
+\index{SystemImpl@{SystemImpl}!setValue@{setValue}}
+\index{setValue@{setValue}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{setValue()}{setValue()}}
+{\footnotesize\ttfamily void System\+Impl\+::set\+Value (\begin{DoxyParamCaption}\item[{double}]{sys\+Value }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Sets the value attribute in the \mbox{\hyperlink{class_system_impl}{System\+Impl}} Class. 
+\begin{DoxyParams}{Parameters}
+{\em sys\+Value} & which will be set to the current \mbox{\hyperlink{class_system_impl}{System\+Impl}}. \\
+\hline
+\end{DoxyParams}
+
+
+Implements \mbox{\hyperlink{class_system_a6a747fb81ce8d28f23be792669b19e2e}{System}}.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_system_impl_a10f6f94cc0c523b71e3f62a180c72d42_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Friends And Related Function Documentation}
+\mbox{\Hypertarget{class_system_impl_a4f3bf5ddad62048a5ba0f424952c3e35}\label{class_system_impl_a4f3bf5ddad62048a5ba0f424952c3e35}} 
+\index{SystemImpl@{SystemImpl}!Flow@{Flow}}
+\index{Flow@{Flow}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{Flow}{Flow}}
+{\footnotesize\ttfamily friend class \mbox{\hyperlink{class_flow}{Flow}}\hspace{0.3cm}{\ttfamily [friend]}}
+
+This Class represents a flow in the General Systems Theory implemented in this code. \mbox{\Hypertarget{class_system_impl_afb81d2077780e342b8fd3654cabc4c19}\label{class_system_impl_afb81d2077780e342b8fd3654cabc4c19}} 
+\index{SystemImpl@{SystemImpl}!ModelImpl@{ModelImpl}}
+\index{ModelImpl@{ModelImpl}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{ModelImpl}{ModelImpl}}
+{\footnotesize\ttfamily friend class \mbox{\hyperlink{class_model_impl}{Model\+Impl}}\hspace{0.3cm}{\ttfamily [friend]}}
+
+This Class represents a model in the General Systems Theory implemented in this code. \mbox{\Hypertarget{class_system_impl_a6682d04f47a9097422c08f54782ffaab}\label{class_system_impl_a6682d04f47a9097422c08f54782ffaab}} 
+\index{SystemImpl@{SystemImpl}!UnitSystem@{UnitSystem}}
+\index{UnitSystem@{UnitSystem}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{UnitSystem}{UnitSystem}}
+{\footnotesize\ttfamily friend class \mbox{\hyperlink{class_unit_system}{Unit\+System}}\hspace{0.3cm}{\ttfamily [friend]}}
+
+This Class is used to test the copy constructor and assignment operator of the \mbox{\hyperlink{class_system_impl}{System\+Impl}} class. 
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{class_system_impl_acd123bacad8aa2b830d9ca9c8098fa84}\label{class_system_impl_acd123bacad8aa2b830d9ca9c8098fa84}} 
+\index{SystemImpl@{SystemImpl}!name@{name}}
+\index{name@{name}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{name}{name}}
+{\footnotesize\ttfamily string System\+Impl\+::name\hspace{0.3cm}{\ttfamily [protected]}}
+
+This attribute contains a name for the \mbox{\hyperlink{class_system_impl}{System\+Impl}}. \mbox{\Hypertarget{class_system_impl_ad068c75f35f48f312d0899d161ea7481}\label{class_system_impl_ad068c75f35f48f312d0899d161ea7481}} 
+\index{SystemImpl@{SystemImpl}!value@{value}}
+\index{value@{value}!SystemImpl@{SystemImpl}}
+\doxysubsubsection{\texorpdfstring{value}{value}}
+{\footnotesize\ttfamily double System\+Impl\+::value\hspace{0.3cm}{\ttfamily [protected]}}
+
+This attribute contains the actual value of the \mbox{\hyperlink{class_system_impl}{System\+Impl}}. 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/marcu/\+Downloads/\+BCC322-\/\+Sprint4-\/\+Marcus/\+My\+Vensim/src/\mbox{\hyperlink{system_impl_8h}{system\+Impl.\+h}}\item 
+C\+:/\+Users/marcu/\+Downloads/\+BCC322-\/\+Sprint4-\/\+Marcus/\+My\+Vensim/src/\mbox{\hyperlink{system_impl_8cpp}{system\+Impl.\+cpp}}\end{DoxyCompactItemize}

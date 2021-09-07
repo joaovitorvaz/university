@@ -1,0 +1,9 @@
+<map id="TestCattleBirthScreenGUI" name="TestCattleBirthScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1204,196,1340"/>
+<area shape="rect" id="node2" title=" " alt="" coords="44,1020,115,1097"/>
+<area shape="rect" id="node3" href="$class_cattle_birth_screen.html" title=" " alt="" coords="139,976,327,1141"/>
+<area shape="rect" id="node4" title=" " alt="" coords="68,609,136,686"/>
+<area shape="rect" id="node5" href="$class_ui_1_1_cattle_birth_screen.html" title=" " alt="" coords="161,609,305,686"/>
+<area shape="rect" id="node6" href="$class_ui___cattle_birth_screen.html" title=" " alt="" coords="161,5,304,332"/>
+<area shape="rect" id="node7" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="329,381,515,913"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="LoginScreen::on_loginButton_clicked" name="LoginScreen::on_loginButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,193,90"/>
+<area shape="rect" id="node2" href="$class_login_screen.html#a02a43580b82ce88823ca696005dd4c9a" title=" " alt="" coords="247,5,398,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#a5f96a705c12df164b910d8141efe374d" title=" " alt="" coords="241,56,404,83"/>
+<area shape="rect" id="node4" href="$class_farm.html#a2f3412a472fcf499ba84499a3c4f5e96" title=" " alt="" coords="241,107,404,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ui::CattleManagementScreen" name="Ui::CattleManagementScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="5,248,197,325"/>
+<area shape="rect" id="node2" href="$class_ui___cattle_management_screen.html" title=" " alt="" coords="6,5,197,200"/>
+</map>

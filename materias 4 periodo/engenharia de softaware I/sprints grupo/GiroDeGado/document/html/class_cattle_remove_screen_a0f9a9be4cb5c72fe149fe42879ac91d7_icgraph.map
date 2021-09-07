@@ -1,0 +1,5 @@
+<map id="CattleRemoveScreen::getFarm" name="CattleRemoveScreen::getFarm">
+<area shape="rect" id="node1" title=" " alt="" coords="232,39,375,80"/>
+<area shape="rect" id="node2" href="$class_cattle_remove_screen.html#a4c6ad245955464b488d61050cbfde4b7" title=" " alt="" coords="19,5,170,47"/>
+<area shape="rect" id="node3" href="$class_cattle_remove_screen.html#af3254dbc9d6920d5a849eda24e3a3982" title=" " alt="" coords="5,71,184,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="unit_farm_setCattleEarring" name="unit_farm_setCattleEarring">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$class_farm.html#a8bdfbfb6dc52079086d9cc8143c4d326" title=" " alt="" coords="228,5,381,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#adfb4d3b361107f266236718fa67c9a2c" title=" " alt="" coords="228,56,381,83"/>
+</map>

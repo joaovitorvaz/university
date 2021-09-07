@@ -1,0 +1,7 @@
+<map id="FinancialConsultScreen" name="FinancialConsultScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="94,859,281,1024"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,491,73,569"/>
+<area shape="rect" id="node3" href="$class_ui_1_1_financial_consult_screen.html" title=" " alt="" coords="98,491,277,569"/>
+<area shape="rect" id="node4" href="$class_ui___financial_consult_screen.html" title=" " alt="" coords="98,5,277,215"/>
+<area shape="rect" id="node5" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="301,264,487,796"/>
+</map>

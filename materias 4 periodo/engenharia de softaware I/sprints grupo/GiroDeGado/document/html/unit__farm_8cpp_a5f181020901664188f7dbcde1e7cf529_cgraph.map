@@ -1,0 +1,5 @@
+<map id="unit_farm_setCattleAcquisitionDate" name="unit_farm_setCattleAcquisitionDate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,231,57"/>
+<area shape="rect" id="node2" href="$class_farm.html#a29b4ed761d03a8ecb8b01808d4dfde41" title=" " alt="" coords="279,5,481,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#aa269c04c45275617c6a3c3304e5cd787" title=" " alt="" coords="279,56,481,83"/>
+</map>

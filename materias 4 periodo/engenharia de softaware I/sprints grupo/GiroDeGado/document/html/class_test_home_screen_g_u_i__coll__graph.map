@@ -1,0 +1,9 @@
+<map id="TestHomeScreenGUI" name="TestHomeScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1101,169,1237"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,895,101,973"/>
+<area shape="rect" id="node3" href="$class_home_screen.html" title=" " alt="" coords="125,829,305,1039"/>
+<area shape="rect" id="node4" title=" " alt="" coords="64,462,132,539"/>
+<area shape="rect" id="node5" href="$class_ui_1_1_home_screen.html" title=" " alt="" coords="157,462,274,539"/>
+<area shape="rect" id="node6" href="$class_ui___home_screen.html" title=" " alt="" coords="156,5,275,185"/>
+<area shape="rect" id="node7" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="299,235,484,767"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TestCattleBuyScreenGUI" name="TestCattleBuyScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1204,192,1340"/>
+<area shape="rect" id="node2" title=" " alt="" coords="14,1020,85,1097"/>
+<area shape="rect" id="node3" href="$class_cattle_buy_screen.html" title=" " alt="" coords="109,976,297,1141"/>
+<area shape="rect" id="node4" title=" " alt="" coords="18,609,86,686"/>
+<area shape="rect" id="node5" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="110,381,295,913"/>
+<area shape="rect" id="node6" href="$class_ui_1_1_cattle_buy_screen.html" title=" " alt="" coords="319,609,459,686"/>
+<area shape="rect" id="node7" href="$class_ui___cattle_buy_screen.html" title=" " alt="" coords="320,5,459,332"/>
+</map>

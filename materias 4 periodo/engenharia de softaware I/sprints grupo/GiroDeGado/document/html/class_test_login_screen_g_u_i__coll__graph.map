@@ -1,0 +1,9 @@
+<map id="TestLoginScreenGUI" name="TestLoginScreenGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1101,167,1237"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,932,100,1009"/>
+<area shape="rect" id="node3" href="$class_login_screen.html" title=" " alt="" coords="124,903,296,1039"/>
+<area shape="rect" id="node4" title=" " alt="" coords="22,535,129,613"/>
+<area shape="rect" id="node5" href="$class_ui_1_1_login_screen.html" title=" " alt="" coords="153,535,267,613"/>
+<area shape="rect" id="node6" href="$class_ui___login_screen.html" title=" " alt="" coords="151,5,269,259"/>
+<area shape="rect" id="node7" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="292,308,477,840"/>
+</map>

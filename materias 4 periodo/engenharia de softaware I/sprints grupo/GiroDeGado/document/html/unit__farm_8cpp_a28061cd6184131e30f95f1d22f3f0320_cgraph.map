@@ -1,0 +1,5 @@
+<map id="unit_farm_setCattleWeight" name="unit_farm_setCattleWeight">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$class_farm.html#a4791c0309f7b5c968470d81abe7255de" title=" " alt="" coords="228,5,381,32"/>
+<area shape="rect" id="node3" href="$class_farm.html#ab17b0ca624b281af9370b7cb6907a668" title=" " alt="" coords="228,56,381,83"/>
+</map>

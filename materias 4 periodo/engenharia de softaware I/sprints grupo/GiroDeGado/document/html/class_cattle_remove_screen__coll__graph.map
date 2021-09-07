@@ -1,0 +1,7 @@
+<map id="CattleRemoveScreen" name="CattleRemoveScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="97,947,283,1185"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,579,73,657"/>
+<area shape="rect" id="node3" href="$class_farm.html" title="This Class represents a Farm for the GiroDeGado software." alt="" coords="97,352,283,884"/>
+<area shape="rect" id="node4" href="$class_ui_1_1_cattle_remove_screen.html" title=" " alt="" coords="307,579,470,657"/>
+<area shape="rect" id="node5" href="$class_ui___cattle_remove_screen.html" title=" " alt="" coords="307,5,470,303"/>
+</map>

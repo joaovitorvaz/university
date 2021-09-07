@@ -1,0 +1,4 @@
+<map id="Ui_CattleBuyScreen" name="Ui_CattleBuyScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="6,5,145,332"/>
+<area shape="rect" id="node2" href="$class_ui_1_1_cattle_buy_screen.html" title=" " alt="" coords="5,380,145,457"/>
+</map>

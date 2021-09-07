@@ -1,0 +1,9 @@
+<map id="GiroDeGado/gui/entity/usereditscreen.h" name="GiroDeGado/gui/entity/usereditscreen.h">
+<area shape="rect" id="node1" title="This file contains the screen for the update of a user in the GiroDeGado software." alt="" coords="504,5,655,47"/>
+<area shape="rect" id="node2" href="$debug_2moc__usereditscreen_8cpp.html" title=" " alt="" coords="5,102,212,143"/>
+<area shape="rect" id="node3" href="$tests_2debug_2moc__usereditscreen_8cpp.html" title=" " alt="" coords="237,102,479,143"/>
+<area shape="rect" id="node4" href="$usereditscreen_8cpp.html" title=" " alt="" coords="504,102,655,143"/>
+<area shape="rect" id="node5" href="$usermanagementscreen_8cpp.html" title=" " alt="" coords="679,102,869,143"/>
+<area shape="rect" id="node6" href="$user__edit__unit__test_8cpp.html" title=" " alt="" coords="893,95,1044,151"/>
+<area shape="rect" id="node7" href="$gui__tests_2main_8cpp.html" title=" " alt="" coords="893,199,1044,240"/>
+</map>

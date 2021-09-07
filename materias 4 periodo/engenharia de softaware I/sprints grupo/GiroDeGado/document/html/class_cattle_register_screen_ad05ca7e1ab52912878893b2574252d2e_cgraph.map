@@ -1,0 +1,4 @@
+<map id="CattleRegisterScreen::on_buyButton_clicked" name="CattleRegisterScreen::on_buyButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$class_cattle_register_screen.html#ae6be0efeea4a08ab32c1b40e1330c83f" title=" " alt="" coords="212,5,357,47"/>
+</map>

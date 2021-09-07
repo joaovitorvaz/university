@@ -1,0 +1,4 @@
+<map id="Transaction" name="Transaction">
+<area shape="rect" id="node1" title="This Class represents a Transaction for the GiroDeGado software." alt="" coords="17,5,151,229"/>
+<area shape="rect" id="node2" href="$class_transaction_handle.html" title="This Class represents the handle of a Handle/Body idiom of a Transaction for the GiroDeGado software ..." alt="" coords="5,277,163,516"/>
+</map>
