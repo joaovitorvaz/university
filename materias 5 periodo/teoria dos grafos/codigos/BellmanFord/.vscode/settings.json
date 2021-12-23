@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "queue": "cpp",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp",
+    "list": "cpp",
+    "ostream": "cpp",
+    "xlocale": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp"
+  },
+  "C_Cpp.dimInactiveRegions": false
+}
